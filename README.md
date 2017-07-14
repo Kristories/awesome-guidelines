@@ -44,6 +44,7 @@
 
 ### Erlang
 - [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
+- [Erlang Coding Guidelines](https://github.com/inaka/erlang_guidelines) 
 
 ### F#
 - [The F# Component Design Guidelines](http://fsharp.org/specs/component-design-guidelines)
