@@ -46,7 +46,7 @@
 
 ### Erlang
 - [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
-- [Erlang Coding Guidelines](https://github.com/inaka/erlang_guidelines) 
+- [Erlang Coding Guidelines](https://github.com/inaka/erlang_guidelines)
 
 ### F#
 - [The F# Component Design Guidelines](http://fsharp.org/specs/component-design-guidelines)
@@ -105,6 +105,7 @@
 ### Python
 - [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+- [The Hitchhiker’s Guide to Python](http://python-guide-pt-br.readthedocs.io/en/latest/) - Highly regarded Python best practices guide.
 
 ### R
 - [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
