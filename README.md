@@ -5,7 +5,7 @@
 
 ## Contents
 - [Programming Languages](#programming-languages)
-- [Development Environment](#development-environtment)
+- [Development Environment](#development-environment)
 - [Platforms](#platforms)
 - [Content Management System](#content-management-system)
 - [Tools](#tools)
@@ -20,6 +20,8 @@
 
 ### C#
 - [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+- [C# Style Guide](https://github.com/raywenderlich/c-sharp-style-guide)
+- [C# Coding Standards and Naming Conventions](http://www.dofactory.com/reference/csharp-coding-standards)
 
 ### C++
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
@@ -66,6 +68,8 @@
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
 - [jQuery Core Style Guide](http://contribute.jquery.org/style-guide/js/)
 - [JavaScript Style Guides And Beautifiers](https://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
+- [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
+- [Code Conventions for the JavaScript](http://javascript.crockford.com/code.html)
 
 ### JSON
 - [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
@@ -74,9 +78,13 @@
 ### Lua
 - [Lua Style Guide](http://lua-users.org/wiki/LuaStyleGuide)
 
+### Markdown
+- [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/)
+
 ### .NET
 - [.NET Standard](https://github.com/dotnet/standard)
 - [.NET Secure Coding Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/security/secure-coding-guidelines)
+- [.NET Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
 
 ### Objective-C
 - [Objective-C Style guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
@@ -137,6 +145,7 @@
 
 ### Git
 - [Git Style Guide](https://github.com/agis/git-style-guide)
+- [Few Rules from Git Documentation](https://github.com/git/git/blob/master/Documentation/CodingGuidelines)
 
 ### PowerShell
 - [The PowerShell Best Practices and Style Guide](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide.
@@ -165,13 +174,14 @@
 - [Sass Guidelines](https://sass-guidelin.es/) - An opinionated styleguide for writing sane, maintainable and scalable Sass.
 - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
 - [HTML + CSS Code Guide](http://codeguide.co/) - Standards for flexible, durable, and sustainable HTML and CSS.
-- [U.S. Web Design Standards](https://standards.usa.gov/) - Open source UI components and visual style guide for U.S. government websites. 
+- [U.S. Web Design Standards](https://standards.usa.gov/) - Open source UI components and visual style guide for U.S. government websites.
 - [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide) - A collection of best-practices and coding conventions for the CoffeeScript programming language.
 - [LESS Coding Guidelines](https://gist.github.com/fat/a47b882eb5f84293c4ed)
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 
 ### GNU
-- [GNU coding standards](https://www.gnu.org/prep/standards/) 
+- [GNU coding standards](https://www.gnu.org/prep/standards/)
 - [Making The Best Use of C](https://www.gnu.org/prep/standards/html_node/Writing-C.html) - This chapter provides advice on how best to use the C language when writing GNU software.
 
 ### Linux
@@ -190,6 +200,7 @@
 - [Project Guidelines](https://github.com/wearehive/project-guidelines) - A set of best practices for JavaScript projects.
 - [Semantic Versioning](http://semver.org/)
 - [Indent style](https://en.wikipedia.org/wiki/Indent_style)
+- [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
 
 
 ## Content Management System
