@@ -1,25 +1,42 @@
-# Contribution Guidelines
+# Contributing to Awesome Guidelines
 
-Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
-project you agree to abide by its terms.
+Thanks for taking the time to contribute :+1:
 
----
+## How Can I Contribute?
 
-Ensure your pull request adheres to the following guidelines:
+### Creating Issues
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+Do you know any cool guideline that isn't listed here? It isn't also on the [open issues](https://github.com/Kristories/awesome-guidelines/issues) or [pull requests](https://github.com/Kristories/awesome-guidelines/pulls)?
+Please create a new issue or submit a pull request, we will be happy to receive it!
 
-Thank you for your suggestions!
+### Submitting Pull Requests
 
+Feel free to take any open issue, just make sure that you follow the contribution guidelines.
 
-## Updating your PR
+### Voting and commenting
 
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+Just use GitHub reactions and comments to express your feelings/experience about open suggestions (additions or removals). Also, you can use [GitHub Polls](http://gh-polls.netlify.com) :point_down:
+
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BN3H6W441S8DTB1NH0DJ2K73/Option%20A)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BN3H6W441S8DTB1NH0DJ2K73/Option%20A/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BN3H6W441S8DTB1NH0DJ2K73/Option%20B)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BN3H6W441S8DTB1NH0DJ2K73/Option%20B/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BN3H6W441S8DTB1NH0DJ2K73/Option%20C)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BN3H6W441S8DTB1NH0DJ2K73/Option%20C/vote)
+
+## Contribution Guidelines
+
+* Please search previous suggestions before making a new one, as yours may be a duplicate.
+* Use the following format: `[Title](url) - Description.`
+* The link should be the name of the package or project.
+* Links and categories should be sorted alphabetically.
+* Add one link per pull-request.
+* Keep descriptions concise, clear and simple, and end them with a period/stop.
+* Check your spelling and grammar.
+* New categories, or improvements to the existing ones are also welcome.
+* Make sure your text editor is set to remove trailing whitespace.
+
+## Quality standard
+
+To stay on the list, projects should follow these quality standards:
+
+* Generally used and useful to the community.
+
+Thanks to all [contributors](https://github.com/Kristories/awesome-guidelines/graphs/contributors), you're awesome and wouldn't be possible without you!
