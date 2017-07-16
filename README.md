@@ -79,6 +79,7 @@
 - [Lua Style Guide](http://lua-users.org/wiki/LuaStyleGuide)
 
 ### Markdown
+- [Google Markdown Style Guide](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md) - Style guide for Google-originated projects using Markdown.
 - [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/)
 
 ### .NET
