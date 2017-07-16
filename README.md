@@ -126,6 +126,7 @@
 - [Scala Best Practices](https://github.com/alexandru/scala-best-practices)
 
 ### Shell
+- [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml) - Style guide for Google-originated projects using Shell.
 
 ### Swift
 - [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
