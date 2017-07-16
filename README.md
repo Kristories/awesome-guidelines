@@ -213,7 +213,6 @@
 - [Checkstyle](https://github.com/checkstyle/checkstyle) - tool for checking Java source code for adherence to a Code Standard or set of validation rules.
 - [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
 - [semantic-release](https://github.com/semantic-release/semantic-release)
-- [JavaScript Standard Style](https://github.com/standard/standard) - JavaScript Style Guide, with linter & automatic code fixer
 - [North](http://pointnorth.io) - Design and development standards to align and guide your project.
 
 
