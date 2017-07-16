@@ -188,6 +188,7 @@
 
 ### Java
 - [JavaEE Specification](https://github.com/javaee/javaee-spec)
+- [Reactive Streams Specification for the JVM](https://github.com/reactive-streams/reactive-streams-jvm)
 
 ### Linux
 - [Linux kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html)
