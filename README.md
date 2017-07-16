@@ -186,6 +186,9 @@
 - [GNU coding standards](https://www.gnu.org/prep/standards/)
 - [Making The Best Use of C](https://www.gnu.org/prep/standards/html_node/Writing-C.html) - This chapter provides advice on how best to use the C language when writing GNU software.
 
+### Java
+- [JavaEE Specification](https://github.com/javaee/javaee-spec)
+
 ### Linux
 - [Linux kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html)
 
