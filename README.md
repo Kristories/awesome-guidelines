@@ -55,6 +55,9 @@
 ### Go
 - [Effective Go](https://golang.org/doc/effective_go.html)
 
+### Groovy
+- [Apache Groovy style guide](http://groovy-lang.org/style-guide.html)
+
 ### Haskell
 - [Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
 
