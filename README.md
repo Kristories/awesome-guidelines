@@ -135,6 +135,7 @@
 - [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
 - [Swift](https://github.com/github/swift-style-guide) - A guide to our Swift style and conventions.
 - [Swift style guide](https://github.com/raywenderlich/swift-style-guide)
+- [Swift Style Guide](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Swift Style Guide
 - [Metova's Swift style guide](https://github.com/metova/swift-style-guide)
 
 ### Visual Basic
