@@ -57,6 +57,9 @@
 ### Haskell
 - [Haskell Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
 
+### HTML
+- [HTML Style Guide](https://github.com/marcobiedermann/html-style-guide) - A style guide which helps you write better, performant, structured, scalable and maintainable HTML.
+
 ### Java
 - [Code Conventions for the Java™ Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) - Google's coding standards for source code in the Java™ Programming Language.
