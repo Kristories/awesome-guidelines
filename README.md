@@ -25,6 +25,7 @@
 
 ### C++
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+- [Clang format style options](https://clang.llvm.org/docs/ClangFormatStyleOptions.html#configurable-format-style-options) - Links to LLVM, Google, Chromium, Mozilla, and WebKit
 - [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - A set of tried-and-true guidelines, rules, and best practices about coding in C++.
 
 ### Clojure
