@@ -25,7 +25,12 @@
 
 ### C++
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-- [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - A set of tried-and-true guidelines, rules, and best practices about coding in C++.
+- [GCC Coding Conventions](https://gcc.gnu.org/codingconventions.html)
+- [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
+- [Chromium](http://www.chromium.org/developers/coding-style)
+- [Mozilla](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
+- [WebKit](http://www.webkit.org/coding/coding-style.html)
+- [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
 ### Clojure
 - [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language.
