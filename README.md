@@ -8,6 +8,7 @@
 - [Development Environment](#development-environment)
 - [Platforms](#platforms)
 - [Content Management System](#content-management-system)
+- [Frameworks](#frameworks)
 - [Tools](#tools)
 
 
@@ -213,7 +214,14 @@
 
 ## Content Management System
 - [WordPress Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/)
+- [Drupal Coding Standards](https://www.drupal.org/docs/develop/standards)
 
+
+## Frameworks
+- [Symfony](https://symfony.com/doc/current/contributing/code/standards.html)
+- [Ruby on Rails](http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html)
+- [Twig](https://twig.symfony.com/doc/2.x/coding_standards.html)
+- [django](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
 
 ## Tools
 - [JavaScript Standard Style ](https://standardjs.com/) - One JavaScript Style to Rule Them All.
