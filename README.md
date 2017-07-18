@@ -203,6 +203,9 @@
 - [Microsoft + Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines)
 - [Node.js Style Guide](https://github.com/felixge/node-style-guide) - A guide for styling your node.js / JavaScript code.
 
+### MongoDB
+- [Mongo Style Guide](https://github.com/jsoendermann/MongoStyleGuide)
+
 ### Other
 - [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) - Don’t let your friends dump git logs into CHANGELOGs™.
 - [Project Guidelines](https://github.com/wearehive/project-guidelines) - A set of best practices for JavaScript projects.
