@@ -115,6 +115,9 @@
 - [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
 - [The tidyverse style guide](http://style.tidyverse.org/)
 
+### Racket
+- [How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html)
+
 ### Ruby
 - [Ruby Style Guide](https://github.com/airbnb/ruby) - Airbnb's Ruby Style Guide.
 - [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide.
