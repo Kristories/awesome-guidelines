@@ -69,6 +69,7 @@
 - [JavaScript The Right Way](http://jstherightway.org/) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - This document serves as the complete definition of Google’s coding standards for source code in the JavaScript programming language.
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
+- [Standard JavaScript Style Guide](https://standardjs.com/) - One JavaScript Style to Rule Them All
 - [jQuery Core Style Guide](http://contribute.jquery.org/style-guide/js/)
 - [JavaScript Style Guides And Beautifiers](https://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
 - [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
