@@ -21,7 +21,7 @@
 ### C#
 - [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 - [C# Style Guide](https://github.com/raywenderlich/c-sharp-style-guide)
-- [C# Coding Standards and Naming Conventions](http://www.dofactory.com/error/error?aspxerrorpath=/reference/csharp-coding-standards)
+- [C# Coding Standards and Naming Conventions](http://www.dofactory.com/reference/csharp-coding-standards)
 
 ### C++
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
