@@ -49,7 +49,7 @@
 - [Erlang Coding Guidelines](https://github.com/inaka/erlang_guidelines)
 
 ### F#
-- [The F# Component Design Guidelines](http://fsharp.org/specs/component-design-guidelines)
+- [The F# Component Design Guidelines](http://fsharp.org/specs/component-design-guidelines/)
 
 ### Go
 - [Effective Go](https://golang.org/doc/effective_go.html)
@@ -237,7 +237,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, [Wahyu Kristianto](https://github.com/Kristories) has waived all copyright and
 related or neighboring rights to this work.
