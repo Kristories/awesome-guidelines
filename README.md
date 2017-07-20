@@ -188,6 +188,7 @@
 - [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
 - [Sass Guidelines](https://sass-guidelin.es/) - An opinionated styleguide for writing sane, maintainable and scalable Sass.
 - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
+- [HTML Style Guide](https://github.com/marcobiedermann/html-style-guide) - A style guide which helps you write better, performant, structured, scalable and maintainable HTML.
 - [HTML + CSS Code Guide](http://codeguide.co/) - Standards for flexible, durable, and sustainable HTML and CSS.
 - [U.S. Web Design Standards](https://standards.usa.gov/) - Open source UI components and visual style guide for U.S. government websites.
 - [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide) - A collection of best-practices and coding conventions for the CoffeeScript programming language.
