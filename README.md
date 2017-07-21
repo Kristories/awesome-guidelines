@@ -110,6 +110,9 @@
 - [PHP FIG](http://www.php-fig.org/psr/) - PHP Standards Recommendations.
 - [PHP The Right Way](http://www.phptherightway.com/) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web.
 
+### PowerShell
+- [PowerShell Style and Best-Practices Guide](https://github.com/PoshCode/PowerShellPracticeAndStyle) - An unofficial, community-written best-practices and style guide for Windows PowerShell.
+
 ### Python
 - [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
