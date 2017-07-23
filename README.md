@@ -195,6 +195,7 @@
 - [LESS Coding Guidelines](https://gist.github.com/fat/a47b882eb5f84293c4ed)
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+- [Yelp Styleguide](https://www.yelp.com/styleguide)
 
 ### GNU
 - [GNU coding standards](https://www.gnu.org/prep/standards/)
