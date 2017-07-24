@@ -44,6 +44,9 @@
 ### Elixir
 - [Elixir Styleguide](http://elixir.community/styleguide)
 
+### Elm
+- [Elm style guide](http://elm-lang.org/docs/style-guide)
+
 ### Erlang
 - [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
 - [Erlang Coding Guidelines](https://github.com/inaka/erlang_guidelines)
