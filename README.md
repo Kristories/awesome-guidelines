@@ -199,6 +199,7 @@
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 - [Yelp Styleguide](https://www.yelp.com/styleguide)
+- [Ambassador Conventions](http://conventions.getambassador.com) - A UX and design pattern library for all Ambassador apps.
 
 ### GNU
 - [GNU coding standards](https://www.gnu.org/prep/standards/)
