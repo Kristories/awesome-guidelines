@@ -55,7 +55,7 @@
 - [The F# Component Design Guidelines](http://fsharp.org/specs/component-design-guidelines/)
 
 ### Fortran
-- [Fortran 90 Standards](http://research.metoffice.gov.uk/research/nwp/numerical/fortran90/f90_standards.html) - European Standards For Writing and Documenting Exchangeable Fortran 90 Code
+- [Fortran 90 Standards](http://research.metoffice.gov.uk/research/nwp/numerical/fortran90/f90_standards.html) - European Standards For Writing and Documenting Exchangeable Fortran 90 Code.
 
 ### Go
 - [Effective Go](https://golang.org/doc/effective_go.html)
