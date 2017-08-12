@@ -110,7 +110,6 @@
 
 ### Perl
 - [perlstyle](https://perldoc.perl.org/perlstyle.html)
-- [Perl style guide](http://search.cpan.org/dist/perl/pod/perlstyle.pod)
 
 ### PHP
 - [PHP FIG](http://www.php-fig.org/psr/) - PHP Standards Recommendations.
