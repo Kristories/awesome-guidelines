@@ -109,6 +109,7 @@
 - [Coding style](http://wiki.freepascal.org/Coding_style)
 
 ### Perl
+- [Perl Elements to Avoid](http://perl-begin.org/tutorials/bad-elements/) - A list of unrecommended practices, and what to do instead.
 - [perlstyle](https://perldoc.perl.org/perlstyle.html)
 
 ### PHP
