@@ -109,6 +109,7 @@
 - [Coding style](http://wiki.freepascal.org/Coding_style)
 
 ### Perl
+- [Perl best practices v4](https://www.slideshare.net/RandalSchwartz/perl-best-practices-v4) - slides by Randal Schwartz, based on the book by Damian Conway.
 - [Perl Elements to Avoid](http://perl-begin.org/tutorials/bad-elements/) - A list of unrecommended practices, and what to do instead.
 - [perlstyle](https://perldoc.perl.org/perlstyle.html)
 
