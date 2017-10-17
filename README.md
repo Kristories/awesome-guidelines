@@ -150,6 +150,7 @@
 - [Swift style guide](https://github.com/raywenderlich/swift-style-guide)
 - [Swift Style Guide](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Swift Style Guide
 - [Metova's Swift style guide](https://github.com/metova/swift-style-guide)
+- [Xmartlabs Swift Style Guide](https://github.com/xmartlabs/Swift-Style-Guide) - Swift language style guide & coding conventions followed by Xmartlabs.
 
 ### Visual Basic
 - [Visual Basic Concepts](https://msdn.microsoft.com/en-us/library/aa240822(v=vs.60).aspx)
