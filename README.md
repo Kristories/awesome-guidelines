@@ -177,6 +177,7 @@
 
 ### Android
 - [Android Guidelines](https://github.com/ribot/android-guidelines) - Architecture and code guidelines we use at ribot when developing for Android.
+- [Xmartlabs Android Style Guide](https://github.com/xmartlabs/Android-Style-Guide) - Style guide for Android by Xmartlabs.
 
 ### Apache
 - [Apache Developers' C Language Style Guide](http://httpd.apache.org/dev/styleguide.html)
