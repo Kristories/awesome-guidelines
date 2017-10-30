@@ -117,6 +117,7 @@
 ### PHP
 - [PHP FIG](http://www.php-fig.org/psr/) - PHP Standards Recommendations.
 - [PHP The Right Way](http://www.phptherightway.com/) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web.
+- [Clean Code PHP](https://github.com/jupeter/clean-code-php) - Clean Code concepts adapted for PHP
 
 ### Python
 - [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
