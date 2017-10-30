@@ -1,4 +1,4 @@
-# Awesome Guidelines [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Guidelines [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of high quality coding style conventions and standards.
 
@@ -73,7 +73,7 @@
 - [Alibaba-Java-Coding-Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/) - A guide for Java developers
 
 ### JavaScript
-- [JavaScript The Right Way](http://jstherightway.org/) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
+- [JavaScript The Right Way](http://jstherightway.org) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - This document serves as the complete definition of Google’s coding standards for source code in the JavaScript programming language.
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
 - [jQuery Core Style Guide](http://contribute.jquery.org/style-guide/js/)
@@ -116,7 +116,7 @@
 
 ### PHP
 - [PHP FIG](http://www.php-fig.org/psr/) - PHP Standards Recommendations.
-- [PHP The Right Way](http://www.phptherightway.com/) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web.
+- [PHP The Right Way](http://www.phptherightway.com) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web.
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php) - Clean Code concepts adapted for PHP
 
 ### Python
@@ -126,7 +126,7 @@
 
 ### R
 - [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
-- [The tidyverse style guide](http://style.tidyverse.org/)
+- [The tidyverse style guide](http://style.tidyverse.org)
 
 ### Racket
 - [How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html)
@@ -137,7 +137,7 @@
 
 ### Rust
 - [Rust Style Guide](https://github.com/rust-lang-nursery/fmt-rfcs/blob/master/guide/guide.md)
-- [Rust Guidelines](http://aturon.github.io/)
+- [Rust Guidelines](http://aturon.github.io)
 
 ### Scala
 - [Scala Style Guide](http://docs.scala-lang.org/style/)
@@ -195,13 +195,13 @@
 - [API Style Guide for Arduino](https://www.arduino.cc/en/Reference/APIStyleGuide)
 
 ### Frontend Development
-- [CSS Guildelines](https://cssguidelin.es/) - High-level advice and guidelines for writing sane, manageable, scalable CSS.
+- [CSS Guildelines](https://cssguidelin.es) - High-level advice and guidelines for writing sane, manageable, scalable CSS.
 - [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
-- [Sass Guidelines](https://sass-guidelin.es/) - An opinionated styleguide for writing sane, maintainable and scalable Sass.
+- [Sass Guidelines](https://sass-guidelin.es) - An opinionated styleguide for writing sane, maintainable and scalable Sass.
 - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
 - [HTML Style Guide](https://github.com/marcobiedermann/html-style-guide) - A style guide which helps you write better, performant, structured, scalable and maintainable HTML.
-- [HTML + CSS Code Guide](http://codeguide.co/) - Standards for flexible, durable, and sustainable HTML and CSS.
-- [U.S. Web Design Standards](https://standards.usa.gov/) - Open source UI components and visual style guide for U.S. government websites.
+- [HTML + CSS Code Guide](http://codeguide.co) - Standards for flexible, durable, and sustainable HTML and CSS.
+- [U.S. Web Design Standards](https://standards.usa.gov) - Open source UI components and visual style guide for U.S. government websites.
 - [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide) - A collection of best-practices and coding conventions for the CoffeeScript programming language.
 - [LESS Coding Guidelines](https://gist.github.com/fat/a47b882eb5f84293c4ed)
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
@@ -234,7 +234,7 @@
 ### Other
 - [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) - Don’t let your friends dump git logs into CHANGELOGs™.
 - [Project Guidelines](https://github.com/wearehive/project-guidelines) - A set of best practices for JavaScript projects.
-- [Semantic Versioning](http://semver.org/)
+- [Semantic Versioning](http://semver.org)
 - [Indent style](https://en.wikipedia.org/wiki/Indent_style)
 - [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
 
@@ -245,7 +245,7 @@
 
 
 ## Tools
-- [JavaScript Standard Style ](https://standardjs.com/) - One JavaScript Style to Rule Them All.
+- [JavaScript Standard Style](https://standardjs.com) - One JavaScript Style to Rule Them All.
 - [Checkstyle](https://github.com/checkstyle/checkstyle) - tool for checking Java source code for adherence to a Code Standard or set of validation rules.
 - [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
 - [semantic-release](https://github.com/semantic-release/semantic-release)
