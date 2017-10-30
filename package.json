@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "awesome-lint": "*"
+  }
+}
