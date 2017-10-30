@@ -70,6 +70,7 @@
 - [Code Conventions for the Java™ Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) - Google's coding standards for source code in the Java™ Programming Language.
 - [Java Programming Style Guide](http://javaranch.com/style.jsp)
+- [Alibaba-Java-Coding-Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/) - A guide for Java developers
 
 ### JavaScript
 - [JavaScript The Right Way](http://jstherightway.org/) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
