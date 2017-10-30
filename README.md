@@ -231,6 +231,9 @@
 ### MongoDB
 - [Mongo Style Guide](https://github.com/jsoendermann/MongoStyleGuide)
 
+### Unix
+- [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/) - a book by Eric S. Raymond.
+
 ### Other
 - [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) - Don’t let your friends dump git logs into CHANGELOGs™.
 - [Project Guidelines](https://github.com/wearehive/project-guidelines) - A set of best practices for JavaScript projects.
