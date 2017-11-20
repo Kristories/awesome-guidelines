@@ -188,9 +188,9 @@
 - [Apache Developers' C Language Style Guide](http://httpd.apache.org/dev/styleguide.html)
 
 ### API
-- [HAL](http://stateless.co/hal_specification.html)
-- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)
-- [JSON API - Recommendations](http://jsonapi.org/recommendations/)
+- [HAL](http://stateless.co/hal_specification.html) - A simple format that gives a consistent and easy way to hyperlink between resources in your API
+- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) - The Microsoft REST API Guidelines
+- [JSON API - Recommendations](http://jsonapi.org/recommendations) - This section contains recommendations for JSON API implementations
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 
 ### Arduino
