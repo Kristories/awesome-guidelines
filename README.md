@@ -2,10 +2,6 @@
 
 > A curated list of high quality coding style conventions and standards.
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/bsSWatmEtukG4NT1CZyDDxR2/Kristories/awesome-guidelines'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/bsSWatmEtukG4NT1CZyDDxR2/Kristories/awesome-guidelines.svg' />
-</a>
-
 ## Contents
 - [Programming Languages](#programming-languages)
 - [Development Environment](#development-environment)
