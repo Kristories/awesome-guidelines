@@ -16,6 +16,8 @@
 - [NASA C Style](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf)
 - [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
 - [C Programming/Structure and style](https://en.wikibooks.org/wiki/C_Programming/Structure_and_style)
+- [C and C++ Elements to Avoid](http://www.shlomifish.org/lecture/C-and-CPP/bad-elements/) - A list of unrecommended practices, and what to do instead.
+
 
 ### C#
 - [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
