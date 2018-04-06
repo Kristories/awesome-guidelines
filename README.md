@@ -2,6 +2,10 @@
 
 > A curated list of high quality coding style conventions and standards.
 
+A set of guidelines for a specific programming language that recommend programming style, practices, and methods for each aspect of a program written in that language.
+
+Contributions welcome. Please read the [contribution guidelines](.github/contributing.md) before contributing. Add links through pull requests or create an issue to start a discussion.
+
 ## Contents
 - [Programming Languages](#programming-languages)
 - [Development Environment](#development-environment)
