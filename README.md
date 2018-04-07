@@ -82,7 +82,7 @@ Contributions welcome. Please read the [contribution guidelines](.github/contrib
 - [jQuery Core Style Guide](http://contribute.jquery.org/style-guide/js/)
 - [JavaScript Style Guides And Beautifiers](https://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
 - [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
-- [Code Conventions for the JavaScript](http://javascript.crockford.com/code.html)
+- [Code Conventions for the JavaScript](http://crockford.com/javascript/code.html)
 - [Javascript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
 
 ### JSON
