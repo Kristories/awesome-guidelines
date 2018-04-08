@@ -1,4 +1,5 @@
 # Awesome Guidelines [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKristories%2Fawesome-guidelines.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKristories%2Fawesome-guidelines?ref=badge_shield)
 
 > A curated list of high quality coding style conventions and standards.
 
@@ -266,3 +267,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, [Wahyu Kristianto](https://github.com/Kristories) has waived all copyright and
 related or neighboring rights to this work.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKristories%2Fawesome-guidelines.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKristories%2Fawesome-guidelines?ref=badge_large)
