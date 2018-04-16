@@ -29,6 +29,7 @@ Contributions welcome. Please read the [contribution guidelines](.github/contrib
 ### C++
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - A set of tried-and-true guidelines, rules, and best practices about coding in C++.
+- [NASA C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/search.jsp?R=20080039927)
 
 ### Clojure
 - [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language.
