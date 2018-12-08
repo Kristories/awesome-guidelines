@@ -224,6 +224,9 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 ### Linux
 - [Linux kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html)
 
+### Mailchimp
+- [Mailchimp Content Style Guide](https://styleguide.mailchimp.com)
+
 ### Mozilla
 - [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
 
