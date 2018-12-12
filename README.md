@@ -238,6 +238,9 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 ### MongoDB
 - [Mongo Style Guide](https://github.com/jsoendermann/MongoStyleGuide)
 
+### SQL
+- [SQL Style Guide](https://www.sqlstyle.guide)
+
 ### Other
 - [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) - Don’t let your friends dump git logs into CHANGELOGs™.
 - [Project Guidelines](https://github.com/wearehive/project-guidelines) - A set of best practices for JavaScript projects.
