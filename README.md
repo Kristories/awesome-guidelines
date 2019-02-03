@@ -127,7 +127,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 ### Python
 - [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-- [The Hitchhiker’s Guide to Python](http://python-guide-pt-br.readthedocs.io/en/latest/) - Highly regarded Python best practices guide.
+- [The Hitchhiker’s Guide to Python](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/) - Highly regarded Python best practices guide.
 
 ### R
 - [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
