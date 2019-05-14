@@ -89,7 +89,6 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 
 ### JSON
 - [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
-- [JSON Style Guide](http://www.w3resource.com/slides/json-style-guide.php)
 
 ### Kotlin
 - [Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)
