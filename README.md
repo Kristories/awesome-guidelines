@@ -74,7 +74,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [Code Conventions for the Java™ Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) - Google's coding standards for source code in the Java™ Programming Language.
 - [Java Programming Style Guide](http://javaranch.com/style.jsp)
-- [Alibaba-Java-Coding-Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/) - A guide for Java developers
+- [Alibaba-Java-Coding-Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/) - A guide for Java developers.
 
 ### JavaScript
 - [AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development.
@@ -85,7 +85,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [JavaScript Style Guides And Beautifiers](https://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
 - [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
 - [Code Conventions for the JavaScript](http://crockford.com/javascript/code.html)
-- [Javascript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
+- [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
 
 ### JSON
 - [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
@@ -115,19 +115,19 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [Coding style](http://wiki.freepascal.org/Coding_style)
 
 ### Perl
-- [Perl best practices v4](https://www.slideshare.net/RandalSchwartz/perl-best-practices-v4) - slides by Randal Schwartz, based on the book by Damian Conway.
+- [Perl best practices v4](https://www.slideshare.net/RandalSchwartz/perl-best-practices-v4) - Slides by Randal Schwartz, based on the book by Damian Conway.
 - [Perl Elements to Avoid](http://perl-begin.org/tutorials/bad-elements/) - A list of unrecommended practices, and what to do instead.
 - [perlstyle](https://perldoc.perl.org/perlstyle.html)
 
 ### PHP
 - [PHP FIG](http://www.php-fig.org/psr/) - PHP Standards Recommendations.
 - [PHP The Right Way](http://www.phptherightway.com) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web.
-- [Clean Code PHP](https://github.com/jupeter/clean-code-php) - Clean Code concepts adapted for PHP
+- [Clean Code PHP](https://github.com/jupeter/clean-code-php) - Clean Code concepts adapted for PHP.
 
 ### Python
 - [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/) [[PT]](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/) - Highly regarded Python best practices guide.
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/) - Highly regarded Python best practices guide.
 
 ### R
 - [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
@@ -156,7 +156,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
 - [Swift](https://github.com/github/swift-style-guide) - A guide to our Swift style and conventions.
 - [Swift style guide](https://github.com/raywenderlich/swift-style-guide)
-- [Swift Style Guide](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Swift Style Guide
+- [Swift Style Guide](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Swift Style Guide.
 - [Metova's Swift style guide](https://github.com/metova/swift-style-guide)
 - [Xmartlabs Swift Style Guide](https://github.com/xmartlabs/Swift-Style-Guide) - Swift language style guide & coding conventions followed by Xmartlabs.
 
@@ -190,10 +190,10 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [Apache Developers' C Language Style Guide](http://httpd.apache.org/dev/styleguide.html)
 
 ### API
-- [HAL](http://stateless.co/hal_specification.html) - A simple format that gives a consistent and easy way to hyperlink between resources in your API
-- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) - The Microsoft REST API Guidelines
-- [JSON API - Recommendations](http://jsonapi.org/recommendations) - This section contains recommendations for JSON API implementations
-- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
+- [HAL](http://stateless.co/hal_specification.html) - A simple format that gives a consistent and easy way to hyperlink between resources in your API.
+- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) - The Microsoft REST API Guidelines.
+- [JSON API - Recommendations](http://jsonapi.org/recommendations) - This section contains recommendations for JSON API implementations.
+- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 
 ### Arduino
 - [Arduino style guide](https://www.arduino.cc/en/Reference/StyleGuide)
@@ -234,7 +234,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 ### Node.js
 - [npm-coding-style](https://docs.npmjs.com/misc/coding-style)
 - [Microsoft + Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines)
-- [Node.js Style Guide](https://github.com/felixge/node-style-guide) - A guide for styling your node.js / JavaScript code.
+- [Node.js Style Guide](https://github.com/felixge/node-style-guide) - A guide for styling your Node.js / JavaScript code.
 
 ### MongoDB
 - [Mongo Style Guide](https://github.com/jsoendermann/MongoStyleGuide)
@@ -257,7 +257,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 
 ## Tools
 - [JavaScript Standard Style](https://standardjs.com) - One JavaScript Style to Rule Them All.
-- [Checkstyle](https://github.com/checkstyle/checkstyle) - tool for checking Java source code for adherence to a Code Standard or set of validation rules.
+- [Checkstyle](https://github.com/checkstyle/checkstyle) - Tool for checking Java source code for adherence to a Code Standard or set of validation rules.
 - [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
 - [semantic-release](https://github.com/semantic-release/semantic-release)
 - [North](http://pointnorth.io) - Design and development standards to align and guide your project.
