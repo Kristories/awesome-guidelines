@@ -261,6 +261,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
 - [semantic-release](https://github.com/semantic-release/semantic-release)
 - [North](http://pointnorth.io) - Design and development standards to align and guide your project.
+- [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - The Easiest Way to Use Any Coding Standard.
 
 
 ## Contribute
