@@ -18,7 +18,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 ## Programming Languages
 
 ### C
-- [NASA C Style](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf)
+- [NASA C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080039927.pdf)
 - [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
 - [C Programming/Structure and style](https://en.wikibooks.org/wiki/C_Programming/Structure_and_style)
 
@@ -46,7 +46,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [Effective Dart](https://www.dartlang.org/guides/language/effective-dart)
 
 ### Elixir
-- [Elixir Styleguide](http://elixir.community/styleguide)
+- [Elixir Styleguide](https://github.com/christopheradams/elixir_style_guide)
 
 ### Elm
 - [Elm style guide](http://elm-lang.org/docs/style-guide)
