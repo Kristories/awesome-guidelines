@@ -63,6 +63,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 
 ### Go
 - [Effective Go](https://golang.org/doc/effective_go.html)
+- [Uber Go Style Guide](https://github.com/uber-go/guide)
 
 ### Groovy
 - [Apache Groovy style guide](http://groovy-lang.org/style-guide.html)
