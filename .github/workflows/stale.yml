@@ -12,6 +12,8 @@ jobs:
     steps:
     - uses: actions/stale@v1
       with:
+        days-before-stale: 20
+        days-before-close: 3
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         stale-issue-message: 'Stale issue message'
         stale-pr-message: 'Stale pull request message'
