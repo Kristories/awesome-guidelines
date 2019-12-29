@@ -79,7 +79,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 ### JavaScript
 - [AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development.
 - [JavaScript The Right Way](http://jstherightway.org) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
-- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - This document serves as the complete definition of Google’s coding standards for source code in the JavaScript programming language.
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - This document serves as the complete definition of Google's coding standards for source code in the JavaScript programming language.
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
 - [jQuery Core Style Guide](http://contribute.jquery.org/style-guide/js/)
 - [JavaScript Style Guides And Beautifiers](https://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
@@ -126,7 +126,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 ### Python
 - [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/) - Highly regarded Python best practices guide.
+- [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - Highly regarded Python best practices guide.
 
 ### R
 - [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
@@ -242,7 +242,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [SQL Style Guide](https://www.sqlstyle.guide)
 
 ### Other
-- [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) - Don’t let your friends dump git logs into CHANGELOGs™.
+- [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) - Don't let your friends dump git logs into CHANGELOGs™.
 - [Project Guidelines](https://github.com/wearehive/project-guidelines) - A set of best practices for JavaScript projects.
 - [Semantic Versioning](http://semver.org)
 - [Indent style](https://en.wikipedia.org/wiki/Indent_style)
