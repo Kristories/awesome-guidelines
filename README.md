@@ -153,9 +153,9 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 
 ### Swift
 - [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
-- [Swift](https://github.com/github/swift-style-guide) - GitHub's Official Swift style and conventions.
+- [Swift](https://github.com/github/swift-style-guide) - GitHub Official Swift style and conventions.
 - [Swift style guide](https://github.com/raywenderlich/swift-style-guide)
-- [Swift Style Guide](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Swift Style Guide.
+- [Swift Style Guide](https://github.com/linkedin/swift-style-guide) - LinkedIn Official Swift Style Guide.
 - [Metova's Swift style guide](https://github.com/metova/swift-style-guide)
 - [Xmartlabs Swift Style Guide](https://github.com/xmartlabs/Swift-Style-Guide) - Swift language style guide & coding conventions followed by Xmartlabs.
 
