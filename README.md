@@ -56,7 +56,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [Erlang Coding Guidelines](https://github.com/inaka/erlang_guidelines)
 
 ### F#
-- [The F# Component Design Guidelines](http://fsharp.org/specs/component-design-guidelines/)
+- [The F# Component Design Guidelines](https://docs.microsoft.com/en-us/dotnet/fsharp/style-guide/component-design-guidelines)
 
 ### Fortran
 - [Fortran 90 Standards](http://research.metoffice.gov.uk/research/nwp/numerical/fortran90/f90_standards.html) - European Standards For Writing and Documenting Exchangeable Fortran 90 Code.
