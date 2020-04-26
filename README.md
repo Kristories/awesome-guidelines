@@ -1,7 +1,8 @@
-# Awesome Guidelines [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKristories%2Fawesome-guidelines.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKristories%2Fawesome-guidelines?ref=badge_shield)
+<p align="center">
+    <img alt="Awesome Guidelines" src="assets/header.png"/>
+</p>
 
-> A curated list of high quality coding style conventions and standards.
+# Awesome Guidelines [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A set of guidelines for a specific programming language that recommend programming style, practices, and methods for each aspect of a program written in that language.
 
