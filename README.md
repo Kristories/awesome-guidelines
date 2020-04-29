@@ -252,6 +252,8 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 
 
 ## Frameworks
+- [Symfony Coding Standards](https://symfony.com/doc/current/contributing/code/standards.html)
+
 
 ## Content Management System
 - [WordPress Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/)
