@@ -267,6 +267,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [semantic-release](https://github.com/semantic-release/semantic-release)
 - [North](http://pointnorth.io) - Design and development standards to align and guide your project.
 - [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - The Easiest Way to Use Any Coding Standard.
+- [PHP Coding Standards Fixer](https://cs.symfony.com) - The PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
 
 
 ## Contribute
