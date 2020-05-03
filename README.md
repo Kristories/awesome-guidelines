@@ -253,6 +253,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 
 ## Frameworks
 - [Symfony Coding Standards](https://symfony.com/doc/current/contributing/code/standards.html)
+- [Django Coding Style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
 
 
 ## Content Management System
