@@ -276,6 +276,36 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/Kristories/awesome-guidelines/graphs/contributors"><img src="https://opencollective.com/awesome-guidelines/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/awesome-guidelines/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/awesome-guidelines"><img src="https://opencollective.com/awesome-guidelines/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/awesome-guidelines/contribute)]
+
+<a href="https://opencollective.com/awesome-guidelines/organization/0/website"><img src="https://opencollective.com/awesome-guidelines/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-guidelines/organization/1/website"><img src="https://opencollective.com/awesome-guidelines/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-guidelines/organization/2/website"><img src="https://opencollective.com/awesome-guidelines/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-guidelines/organization/3/website"><img src="https://opencollective.com/awesome-guidelines/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-guidelines/organization/4/website"><img src="https://opencollective.com/awesome-guidelines/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-guidelines/organization/5/website"><img src="https://opencollective.com/awesome-guidelines/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-guidelines/organization/6/website"><img src="https://opencollective.com/awesome-guidelines/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-guidelines/organization/7/website"><img src="https://opencollective.com/awesome-guidelines/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-guidelines/organization/8/website"><img src="https://opencollective.com/awesome-guidelines/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-guidelines/organization/9/website"><img src="https://opencollective.com/awesome-guidelines/organization/9/avatar.svg"></a>
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
