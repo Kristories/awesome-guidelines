@@ -249,6 +249,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [Semantic Versioning](http://semver.org)
 - [Indent style](https://en.wikipedia.org/wiki/Indent_style)
 - [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
+- [Robot Framework User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
 
 
 ## Frameworks
