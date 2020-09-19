@@ -6,7 +6,7 @@
 
 A set of guidelines for a specific programming language that recommend programming style, practices, and methods for each aspect of a program written in that language.
 
-Contributions welcome. Please read the [contribution guidelines](contributing.md) before contributing. Add links through pull requests or create an issue to start a discussion.
+Contributions welcome. Please read the [contribution guidelines](#contribute) before contributing. Add links through pull requests or create an issue to start a discussion.
 
 ## Contents
 - [Programming Languages](#programming-languages)
@@ -15,6 +15,7 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [Frameworks](#frameworks)
 - [Content Management System](#content-management-system)
 - [Tools](#tools)
+- [Contributors](#contributors)
 
 
 ## Programming Languages
@@ -150,9 +151,6 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [Databricks Scala Guide](https://github.com/databricks/scala-style-guide) - Databricks Scala Coding Style Guide.
 - [Scala Best Practices](https://github.com/alexandru/scala-best-practices)
 
-### Shell
-- [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml) - Style guide for Google-originated projects using Shell.
-
 ### Swift
 - [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
 - [Swift](https://github.com/github/swift-style-guide) - GitHub Official Swift style and conventions.
@@ -272,21 +270,20 @@ Contributions welcome. Please read the [contribution guidelines](contributing.md
 - [PHP Coding Standards Fixer](https://cs.symfony.com) - The PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
 
 
-## Contribute
+## Contributors
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-
-## Contributors
-
 ### Code Contributors
 
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+This project exists thanks to all the people who contribute.
 <a href="https://github.com/Kristories/awesome-guidelines/graphs/contributors"><img src="https://opencollective.com/awesome-guidelines/contributors.svg?width=890&button=false" /></a>
+
+[Contribute on opencollective.com](https://opencollective.com/awesome-guidelines/contribute).
 
 ### Financial Contributors
 
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/awesome-guidelines/contribute)]
+Become a financial contributor and help us sustain our community. 
 
 #### Individuals
 
@@ -294,7 +291,7 @@ Become a financial contributor and help us sustain our community. [[Contribute](
 
 #### Organizations
 
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/awesome-guidelines/contribute)]
+Support this project with your organization. Your logo will show up here with a link to your website.
 
 <a href="https://opencollective.com/awesome-guidelines/organization/0/website"><img src="https://opencollective.com/awesome-guidelines/organization/0/avatar.svg"></a>
 <a href="https://opencollective.com/awesome-guidelines/organization/1/website"><img src="https://opencollective.com/awesome-guidelines/organization/1/avatar.svg"></a>
