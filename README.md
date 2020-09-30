@@ -202,7 +202,7 @@ Contributions welcome. Please read the [contribution guidelines](#contribute) be
 - [API Style Guide for Arduino](https://www.arduino.cc/en/Reference/APIStyleGuide)
 
 ### Frontend Development
-- [CSS Guildelines](https://cssguidelin.es) - High-level advice and guidelines for writing sane, manageable, scalable CSS.
+- [CSS Guidelines](https://cssguidelin.es) - High-level advice and guidelines for writing sane, manageable, scalable CSS.
 - [Frontend Guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
 - [Sass Guidelines](https://sass-guidelin.es) - An opinionated styleguide for writing sane, maintainable and scalable Sass.
 - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
