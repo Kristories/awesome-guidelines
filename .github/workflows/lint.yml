@@ -1,0 +1,14 @@
+name: Lint
+on:
+  pull_request:
+    branches: [ master ]
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Awesome lint
+        uses: Scrum/awesome-lint-action@v0.1.1
