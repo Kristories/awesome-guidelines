@@ -12,3 +12,5 @@ jobs:
 
       - name: Awesome lint
         uses: Scrum/awesome-lint-action@v0.1.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
