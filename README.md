@@ -306,13 +306,3 @@ Support this project with your organization. Your logo will show up here with a 
 <a href="https://opencollective.com/awesome-guidelines/organization/7/website"><img src="https://opencollective.com/awesome-guidelines/organization/7/avatar.svg"></a>
 <a href="https://opencollective.com/awesome-guidelines/organization/8/website"><img src="https://opencollective.com/awesome-guidelines/organization/8/avatar.svg"></a>
 <a href="https://opencollective.com/awesome-guidelines/organization/9/website"><img src="https://opencollective.com/awesome-guidelines/organization/9/avatar.svg"></a>
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, [Wahyu Kristianto](https://github.com/Kristories) has waived all copyright and
-related or neighboring rights to this work.
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKristories%2Fawesome-guidelines.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKristories%2Fawesome-guidelines?ref=badge_large)
