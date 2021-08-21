@@ -8,6 +8,13 @@ A set of guidelines for a specific programming language that recommend programmi
 
 Contributions welcome. Please read the [contribution guidelines](#contribute) before contributing. Add links through pull requests or create an issue to start a discussion.
 
+> **Make a small donation to help us fight Covid19**
+> 
+> Visit [kitabisa.com](https://kitabisa.com/campaign/indonesialawancorona) and [dompetdhuafa.org](https://donasi.dompetdhuafa.org/?donasi_1=Kemanusiaan&donasi_2=Indonesia%20Siap%20Siaga&donasi_3=Bersama%20Lawan%20Corona).
+> Your small help goes a long way. ❤️
+
+
+
 ## Contents
 - [Programming Languages](#programming-languages)
 - [Development Environment](#development-environment)
