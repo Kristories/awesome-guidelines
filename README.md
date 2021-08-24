@@ -149,6 +149,7 @@ Contributions welcome. Please read the [contribution guidelines](#contribute) be
 - [How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html)
 
 ### Ruby
+- [The Ruby Style Guide](https://rubystyle.guide) - A community-driven Ruby coding style guide.
 - [Ruby Style Guide](https://github.com/airbnb/ruby) - Airbnb's Ruby Style Guide.
 - [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide.
 
