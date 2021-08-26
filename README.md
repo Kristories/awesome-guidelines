@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Awesome Guidelines" src="assets/header.png"/>
+    <img alt="Awesome Guidelines" src="https://awesome-guidelines.com/assets/img/cover.gif"/>
 </p>
 
 # Awesome Guidelines [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
