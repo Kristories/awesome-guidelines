@@ -15,11 +15,7 @@ Feel free to take any open issue, just make sure that you follow the contributio
 
 ### Voting and commenting
 
-Just use GitHub reactions and comments to express your feelings/experience about open suggestions (additions or removals). Also, you can use [GitHub Polls](http://gh-polls.netlify.com) :point_down:
-
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BN3H6W441S8DTB1NH0DJ2K73/Option%20A)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BN3H6W441S8DTB1NH0DJ2K73/Option%20A/vote)
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BN3H6W441S8DTB1NH0DJ2K73/Option%20B)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BN3H6W441S8DTB1NH0DJ2K73/Option%20B/vote)
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BN3H6W441S8DTB1NH0DJ2K73/Option%20C)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BN3H6W441S8DTB1NH0DJ2K73/Option%20C/vote)
+Just use GitHub Discussions ([Resource suggestions](https://github.com/Kristories/awesome-guidelines/discussions/categories/resource-suggestions)).
 
 ## Contribution Guidelines
 
