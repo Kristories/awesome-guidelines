@@ -6,8 +6,6 @@
 
 A set of guidelines for a specific programming language that recommend programming style, practices, and methods for each aspect of a program written in that language.
 
-Contributions welcome. Please read the [contribution guidelines](#contribute) before contributing. Add links through pull requests or create an issue to start a discussion.
-
 > Make a small donation to help us fight Covid19
 > 
 > Visit [kitabisa.com](https://kitabisa.com/campaign/indonesialawancorona) and [dompetdhuafa.org](https://donasi.dompetdhuafa.org/?donasi_1=Kemanusiaan&donasi_2=Indonesia%20Siap%20Siaga&donasi_3=Bersama%20Lawan%20Corona).
@@ -281,7 +279,7 @@ Contributions welcome. Please read the [contribution guidelines](#contribute) be
 
 ## Contributors
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome. Please read the [contribution guidelines](contributing.md) before contributing.
 
 ### Code Contributors
 
