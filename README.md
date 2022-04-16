@@ -116,7 +116,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Objective-C
 - [Objective-C Style guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
-- [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml)
+- [Google Objective-C Style Guide](https://github.com/google/styleguide/blob/gh-pages/objcguide.md)
 - [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
 
 ### Pascal
