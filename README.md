@@ -136,6 +136,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - Highly regarded Python best practices guide.
+- [Wemake Python Styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
 
 ### R
 - [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
