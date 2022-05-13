@@ -166,6 +166,9 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Metova's Swift style guide](https://github.com/metova/swift-style-guide)
 - [Xmartlabs Swift Style Guide](https://github.com/xmartlabs/Swift-Style-Guide) - Swift language style guide & coding conventions followed by Xmartlabs.
 
+### TypeScript
+- [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) - TypeScript Style Guide used at Google's.
+
 ### Visual Basic
 - [Visual Basic Concepts](https://msdn.microsoft.com/en-us/library/aa240822(v=vs.60).aspx)
 - [Visual Basic/Coding Standards](https://en.wikibooks.org/wiki/Visual_Basic/Coding_Standards)
