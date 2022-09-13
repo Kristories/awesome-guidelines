@@ -157,14 +157,14 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Rust Style Guide](https://github.com/rust-lang-nursery/fmt-rfcs/blob/master/guide/guide.md)
 - [Rust Guidelines](http://aturon.github.io)
 
-### Solidity
-- [Solidity Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
-- [Solcurity Standard](https://github.com/transmissions11/solcurity)
-
 ### Scala
 - [Scala Style Guide](http://docs.scala-lang.org/style/)
 - [Databricks Scala Guide](https://github.com/databricks/scala-style-guide) - Databricks Scala Coding Style Guide.
 - [Scala Best Practices](https://github.com/alexandru/scala-best-practices)
+
+### Solidity
+- [Solidity Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
+- [Solcurity Standard](https://github.com/transmissions11/solcurity)
 
 ### Swift
 - [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
