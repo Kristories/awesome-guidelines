@@ -6,11 +6,6 @@
 
 A set of guidelines for a specific programming language that recommend programming style, practices, and methods for each aspect of a program written in that language.
 
-> Make a small donation to help us fight Covid19
-> 
-> Visit [kitabisa.com](https://kitabisa.com/campaign/indonesialawancorona) and [dompetdhuafa.org](https://donasi.dompetdhuafa.org/?donasi_1=Kemanusiaan&donasi_2=Indonesia%20Siap%20Siaga&donasi_3=Bersama%20Lawan%20Corona).
-> Your small help goes a long way. ❤️
-
 ## Contents
 - [Programming Languages](#programming-languages)
 - [Development Environment](#development-environment)
