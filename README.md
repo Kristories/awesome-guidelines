@@ -241,7 +241,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Mailchimp Content Style Guide](https://styleguide.mailchimp.com)
 
 ### Mozilla
-- [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
+- [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide)
 
 ### Node.js
 - [npm-coding-style](https://docs.npmjs.com/misc/coding-style)
