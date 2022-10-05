@@ -153,6 +153,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Rust Guidelines](http://aturon.github.io)
 
 ### Scala
+- [Effective Scala](https://twitter.github.io/effectivescala/)
 - [Scala Style Guide](http://docs.scala-lang.org/style/)
 - [Databricks Scala Guide](https://github.com/databricks/scala-style-guide) - Databricks Scala Coding Style Guide.
 - [Scala Best Practices](https://github.com/alexandru/scala-best-practices)
