@@ -226,6 +226,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 - [Yelp Styleguide](https://www.yelp.com/styleguide)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [BEM - Block Element Modifier](https://getbem.com/) - A methodology that helps you to create reusable components and code sharing in front‑end development.
 
 ### GNU
 - [GNU coding standards](https://www.gnu.org/prep/standards/)
