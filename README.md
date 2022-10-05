@@ -224,7 +224,6 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 - [Yelp Styleguide](https://www.yelp.com/styleguide)
-- [Ambassador Conventions](http://conventions.getambassador.com) - A UX and design pattern library for all Ambassador apps.
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
 ### GNU
