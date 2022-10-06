@@ -107,7 +107,7 @@ A set of guidelines for a specific programming language that recommend programmi
 ### Markdown
 - [Google Markdown Style Guide](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md) - Style guide for Google-originated projects using Markdown.
 - [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/)
-- [GitLab Markdown Style Guide](https://about.gitlab.com/handbook/markdown-guide/) - Markdown Style Guide for about.GitLab.com
+- [GitLab Markdown Style Guide](https://about.gitlab.com/handbook/markdown-guide/) - Markdown Style Guide for about.GitLab.com.
 
 ### .NET
 - [.NET Standard](https://github.com/dotnet/standard)
