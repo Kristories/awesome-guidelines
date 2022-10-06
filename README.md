@@ -68,6 +68,7 @@ A set of guidelines for a specific programming language that recommend programmi
 ### Go
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) - Patterns and conventions used in Go code at Uber.
+- [Go Standard Project Layout](https://github.com/golang-standards/project-layout) - Basic layout for Go applications.
 
 ### Groovy
 - [Apache Groovy style guide](http://groovy-lang.org/style-guide.html)
@@ -228,6 +229,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Yelp Styleguide](https://www.yelp.com/styleguide)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [BEM - Block Element Modifier](https://getbem.com/) - A methodology that helps you to create reusable components and code sharing in front‑end development.
+- [Frontend Roadmap](https://roadmap.sh/frontend) - Step by step guide to becoming a modern frontend developer.
 
 ### GNU
 - [GNU coding standards](https://www.gnu.org/prep/standards/)
@@ -285,6 +287,8 @@ A set of guidelines for a specific programming language that recommend programmi
 - [PHP Coding Standards Fixer](https://cs.symfony.com) - The PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
 - [Laravel Pint](https://laravel.com/docs/pint) - An opinionated PHP code style fixer for minimalists.
 - [RuboCop](https://rubocop.org) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+- [Gitmoji](https://gitmoji.dev/) - An emoji guide for your commit messages.
+- [Commitizen](https://commitizen-tools.github.io/commitizen/) - A tool designed for teams that defines a standard way of commiting rules and communicating it.
 
 ## Contributors
 
