@@ -234,6 +234,8 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Java
 - [JavaEE Specification](https://github.com/javaee/javaee-spec)
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
 
 ### Linux
 - [Linux kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html)
