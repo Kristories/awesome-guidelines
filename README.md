@@ -244,6 +244,9 @@ A set of guidelines for a specific programming language that recommend programmi
 ### Mozilla
 - [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide)
 
+### Google
+- [Google-related developer documentation](https://developers.google.com/style) - This style guide provides editorial guidelines for writing clear and consistent Google-related developer documentation.
+
 ### Node.js
 - [npm-coding-style](https://docs.npmjs.com/misc/coding-style)
 - [Microsoft + Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines)
