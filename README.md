@@ -154,6 +154,7 @@ A set of guidelines for a specific programming language that recommend programmi
 ### Rust
 - [Rust Style Guide](https://github.com/rust-lang-nursery/fmt-rfcs/blob/master/guide/guide.md)
 - [Rust Guidelines](http://aturon.github.io)
+- [Rust API Guidelines](https://rust-lang-nursery.github.io/api-guidelines/)
 
 ### Scala
 - [Effective Scala](https://twitter.github.io/effectivescala/)
