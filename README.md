@@ -64,6 +64,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Fortran
 - [Fortran 90 Standards](http://research.metoffice.gov.uk/research/nwp/numerical/fortran90/f90_standards.html) - European Standards For Writing and Documenting Exchangeable Fortran 90 Code.
+- [Fortran Best Practices](https://fortran-lang.org/en/learn/best_practices/) - Style guide and best practices for modern Fortran programs.
 
 ### Go
 - [Effective Go](https://golang.org/doc/effective_go.html)
