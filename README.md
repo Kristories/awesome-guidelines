@@ -68,9 +68,11 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Fortran
 - [Fortran 90 Standards](http://research.metoffice.gov.uk/research/nwp/numerical/fortran90/f90_standards.html) - European Standards For Writing and Documenting Exchangeable Fortran 90 Code.
+- [Fortran Best Practices](https://fortran-lang.org/en/learn/best_practices/) - Style guide and best practices for modern Fortran programs.
 
 ### Go
 - [Effective Go](https://golang.org/doc/effective_go.html)
+- [Go Standard Project Layout](https://github.com/golang-standards/project-layout) - Basic layout for Go applications.
 - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) - Patterns and conventions used in Go code at Uber.
 
 ### Groovy
@@ -111,6 +113,7 @@ A set of guidelines for a specific programming language that recommend programmi
 ### Markdown
 - [Google Markdown Style Guide](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md) - Style guide for Google-originated projects using Markdown.
 - [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/)
+- [GitLab Markdown Style Guide](https://about.gitlab.com/handbook/markdown-guide/) - Markdown Style Guide for about.GitLab.com.
 
 ### .NET
 - [.NET Standard](https://github.com/dotnet/standard)
@@ -157,6 +160,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Rust Style Guide](https://github.com/rust-lang-nursery/fmt-rfcs/blob/master/guide/guide.md)
 - [Rust Guidelines](http://aturon.github.io)
 - [Unsafe Code Guidelines](https://github.com/rust-lang/unsafe-code-guidelines)
+- [Rust API Guidelines](https://rust-lang-nursery.github.io/api-guidelines/)
 
 ### Scala
 - [Effective Scala](https://twitter.github.io/effectivescala/)
@@ -231,8 +235,8 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 - [Yelp Styleguide](https://www.yelp.com/styleguide)
-- [Ambassador Conventions](http://conventions.getambassador.com) - A UX and design pattern library for all Ambassador apps.
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [BEM - Block Element Modifier](https://getbem.com/) - A methodology that helps you to create reusable components and code sharing in front‑end development.
 
 ### GNU
 - [GNU coding standards](https://www.gnu.org/prep/standards/)
@@ -249,6 +253,9 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Mozilla
 - [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide)
+
+### Google
+- [Google-related developer documentation](https://developers.google.com/style) - This style guide provides editorial guidelines for writing clear and consistent Google-related developer documentation.
 
 ### Node.js
 - [npm-coding-style](https://docs.npmjs.com/misc/coding-style)
