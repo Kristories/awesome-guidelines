@@ -55,6 +55,10 @@ A set of guidelines for a specific programming language that recommend programmi
 ### Elm
 - [Elm style guide](http://elm-lang.org/docs/style-guide)
 
+### Emacs Lisp
+- [Elisp Guide](https://github.com/chrisdone/elisp-guide)
+- [Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide)
+
 ### Erlang
 - [Programming Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
 - [Erlang Coding Guidelines](https://github.com/inaka/erlang_guidelines)
