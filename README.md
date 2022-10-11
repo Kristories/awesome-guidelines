@@ -156,11 +156,9 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide.
 
 ### Rust
-- [Guide to develop secure applications with Rust](https://github.com/ANSSI-FR/rust-guide)
 - [Rust Style Guide](https://github.com/rust-lang-nursery/fmt-rfcs/blob/master/guide/guide.md)
 - [Rust Guidelines](http://aturon.github.io)
 - [Rust API Guidelines](https://rust-lang-nursery.github.io/api-guidelines/)
-- [Unsafe Code Guidelines](https://github.com/rust-lang/unsafe-code-guidelines)
 
 ### Scala
 - [Effective Scala](https://twitter.github.io/effectivescala/)
