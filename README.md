@@ -24,9 +24,9 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### C
 
-- [NASA C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080039927.pdf)
 - [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
 - [C Programming/Structure and style](https://en.wikibooks.org/wiki/C_Programming/Structure_and_style)
+- [GNU C Coding Standards](https://www.gnu.org/prep/standards/standards.html#Writing-C)
 
 ### C#
 
@@ -38,6 +38,11 @@ A set of guidelines for a specific programming language that recommend programmi
 
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - A set of tried-and-true guidelines, rules, and best practices about coding in C++.
+- [LLVM C++ Coding Standards](https://llvm.org/docs/CodingStandards.html)
+- [Mozilla C++ Coding style](https://firefox-source-docs.mozilla.org/code-quality/coding-style/coding_style_cpp.html)
+- [Chromium C++ style guide](https://chromium.googlesource.com/chromium/src/+/HEAD/styleguide/c++/c++.md)
+- [Webkit C++ Code Style Guidelines](https://webkit.org/code-style-guidelines/)
+- [NASA C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080039927.pdf)
 
 ### Clojure
 
