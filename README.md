@@ -57,6 +57,10 @@ A set of guidelines for a specific programming language that recommend programmi
 
 - [Effective Dart](https://www.dartlang.org/guides/language/effective-dart)
 
+### Delphi
+
+- [Delphi’s Object Pascal Style Guide](https://docwiki.embarcadero.com/RADStudio/Alexandria/en/Delphi%E2%80%99s_Object_Pascal_Style_Guide)
+
 ### Elixir
 
 - [Elixir Styleguide](https://github.com/christopheradams/elixir_style_guide)
