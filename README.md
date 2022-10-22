@@ -360,6 +360,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [semantic-release](https://github.com/semantic-release/semantic-release)
 - [North](http://pointnorth.io) - Design and development standards to align and guide your project.
 - [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - The Easiest Way to Use Any Coding Standard.
+- [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - The tool for detecting and fixing the violations of the specified standards in PHP code.
 - [PHP Coding Standards Fixer](https://cs.symfony.com) - The PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
 - [Laravel Pint](https://laravel.com/docs/pint) - An opinionated PHP code style fixer for minimalists.
 - [RuboCop](https://rubocop.org) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
