@@ -59,7 +59,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Delphi
 
-- [Delphi’s Object Pascal Style Guide](https://docwiki.embarcadero.com/RADStudio/Alexandria/en/Delphi%E2%80%99s_Object_Pascal_Style_Guide)
+- [Delphi's Object Pascal Style Guide](https://docwiki.embarcadero.com/RADStudio/Alexandria/en/Delphi%E2%80%99s_Object_Pascal_Style_Guide)
 
 ### Elixir
 
