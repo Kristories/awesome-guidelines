@@ -26,7 +26,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 - [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
 - [C Programming/Structure and style](https://en.wikibooks.org/wiki/C_Programming/Structure_and_style)
-- [GNU C Coding Standards](https://www.gnu.org/prep/standards/standards.html#Writing-C)
+- [Making The Best Use of C](https://www.gnu.org/prep/standards/html_node/Writing-C.html) - This chapter provides advice on how best to use the C language when writing GNU software.
 
 ### C#
 
@@ -291,7 +291,6 @@ A set of guidelines for a specific programming language that recommend programmi
 ### GNU
 
 - [GNU coding standards](https://www.gnu.org/prep/standards/)
-- [Making The Best Use of C](https://www.gnu.org/prep/standards/html_node/Writing-C.html) - This chapter provides advice on how best to use the C language when writing GNU software.
 
 ### Java
 
