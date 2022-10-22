@@ -335,7 +335,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 - [Symfony Coding Standards](https://symfony.com/doc/current/contributing/code/standards.html)
 - [Django Coding Style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
-- [Vue Style Guide](https://vuejs.org/guide/introduction.html)
+- [Vue Style Guide](https://vuejs.org/style-guide)
 
 ## Content Management System
 
