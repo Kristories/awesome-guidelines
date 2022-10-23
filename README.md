@@ -230,7 +230,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Visual Basic
 
-- [Visual Basic Concepts](https://msdn.microsoft.com/en-us/library/aa240822(v=vs.60).aspx)
+- [Visual Basic Concepts](<https://msdn.microsoft.com/en-us/library/aa240822(v=vs.60).aspx>)
 - [Visual Basic/Coding Standards](https://en.wikibooks.org/wiki/Visual_Basic/Coding_Standards)
 
 ### XML
@@ -344,6 +344,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Symfony Coding Standards](https://symfony.com/doc/current/contributing/code/standards.html)
 - [Django Coding Style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
 - [Vue Style Guide](https://vuejs.org/style-guide)
+- [Angular Style Guide](https://angular.io/guide/styleguide)
 
 ## Content Management System
 
