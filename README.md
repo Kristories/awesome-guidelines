@@ -154,6 +154,10 @@ A set of guidelines for a specific programming language that recommend programmi
 - [.NET Secure Coding Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/security/secure-coding-guidelines)
 - [.NET Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
 
+### Nim
+
+- [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
+
 ### Objective-C
 
 - [Objective-C Style guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
