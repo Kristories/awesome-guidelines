@@ -148,6 +148,10 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/)
 - [GitLab Markdown Style Guide](https://about.gitlab.com/handbook/markdown-guide/) - Markdown Style Guide for about.GitLab.com.
 
+### Nim
+
+- [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
+
 ### .NET
 
 - [.NET Standard](https://github.com/dotnet/standard)
@@ -230,7 +234,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Visual Basic
 
-- [Visual Basic Concepts](https://msdn.microsoft.com/en-us/library/aa240822(v=vs.60).aspx)
+- [Visual Basic Concepts](<https://msdn.microsoft.com/en-us/library/aa240822(v=vs.60).aspx>)
 - [Visual Basic/Coding Standards](https://en.wikibooks.org/wiki/Visual_Basic/Coding_Standards)
 
 ### XML
