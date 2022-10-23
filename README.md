@@ -148,15 +148,15 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/)
 - [GitLab Markdown Style Guide](https://about.gitlab.com/handbook/markdown-guide/) - Markdown Style Guide for about.GitLab.com.
 
-### Nim
-
-- [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
-
 ### .NET
 
 - [.NET Standard](https://github.com/dotnet/standard)
 - [.NET Secure Coding Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/security/secure-coding-guidelines)
 - [.NET Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
+
+### Nim
+
+- [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
 
 ### Objective-C
 
