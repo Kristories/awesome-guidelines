@@ -273,6 +273,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines) - The Microsoft REST API Guidelines.
 - [JSON API - Recommendations](http://jsonapi.org/recommendations) - This section contains recommendations for JSON API implementations.
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API.
+- [Google Cloud API Design Guide](https://cloud.google.com/apis/design) - A general design guide for networked APIs provided by Google.
 
 ### Arduino
 
