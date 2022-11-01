@@ -323,7 +323,6 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Node.js
 
-- [npm-coding-style](https://docs.npmjs.com/misc/coding-style)
 - [Microsoft + Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines)
 - [Node.js Style Guide](https://github.com/felixge/node-style-guide) - A guide for styling your Node.js / JavaScript code.
 
