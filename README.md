@@ -342,6 +342,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Indent style](https://en.wikipedia.org/wiki/Indent_style)
 - [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
 - [Robot Framework User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
+- [CodeQL Coding Standards](https://github.com/github/codeql-coding-standards)
 
 ## Frameworks
 
