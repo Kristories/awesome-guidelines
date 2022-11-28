@@ -97,6 +97,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Go Standard Project Layout](https://github.com/golang-standards/project-layout) - Basic layout for Go applications.
+- [Google Go Style Guide](https://google.github.io/styleguide/go) - Google's coding standards for source code in Go.
 - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) - Patterns and conventions used in Go code at Uber.
 
 ### Groovy
