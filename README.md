@@ -351,6 +351,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Django Coding Style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
 - [Vue Style Guide](https://vuejs.org/style-guide)
 - [Angular Style Guide](https://angular.io/guide/styleguide)
+- [How to Create an Angular Application](hhttps://flatlogic.com/blog/how-to-create-angular-app-step-by-step)
 
 ## Content Management System
 
