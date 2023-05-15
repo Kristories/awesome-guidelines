@@ -168,6 +168,7 @@ A set of guidelines for a specific programming language that recommend programmi
 ### Pascal
 
 - [Coding style](http://wiki.freepascal.org/Coding_style)
+- [GNU Pascal Coding Standards](https://edoras.sdsu.edu/doc/gpcs-en.html) - GNU Pascal standards used by GNU Pascal project.
 
 ### Perl
 
