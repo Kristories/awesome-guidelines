@@ -126,6 +126,8 @@ A set of guidelines for a specific programming language that recommend programmi
 - [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
 - [Code Conventions for the JavaScript](http://crockford.com/javascript/code.html)
 - [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
+- [Thinking in React](https://react.dev/learn/thinking-in-react) - Break your React app into Components
+
 
 ### JSON
 
