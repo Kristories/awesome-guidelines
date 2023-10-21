@@ -126,7 +126,6 @@ A set of guidelines for a specific programming language that recommend programmi
 - [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
 - [Code Conventions for the JavaScript](http://crockford.com/javascript/code.html)
 - [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
-- [Mozilla Coding Style Guide for Javascript](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript)
 
 ### JSON
 
@@ -234,7 +233,6 @@ A set of guidelines for a specific programming language that recommend programmi
 ### TypeScript
 
 - [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) - TypeScript Style Guide used at Google's.
-- [Typescript deep dive - Style Guide](https://basarat.gitbook.io/typescript/styleguide) - An unofficial TypeScript Style Guide
 - [Typescriptlang - Do's and Don'ts](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html) - Suggestions from Typescript Lang organization
 
 ### Visual Basic
@@ -375,7 +373,6 @@ A set of guidelines for a specific programming language that recommend programmi
 - [PHP Coding Standards Fixer](https://cs.symfony.com) - The PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
 - [Laravel Pint](https://laravel.com/docs/pint) - An opinionated PHP code style fixer for minimalists.
 - [RuboCop](https://rubocop.org) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-- [ESLint](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX
 
 ## Contributors
 
