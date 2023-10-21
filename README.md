@@ -233,6 +233,7 @@ A set of guidelines for a specific programming language that recommend programmi
 ### TypeScript
 
 - [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) - TypeScript Style Guide used at Google's.
+- [Typescript deep dive - Style Guide](https://basarat.gitbook.io/typescript/styleguide) - An unofficial TypeScript Style Guide.
 
 ### Visual Basic
 
