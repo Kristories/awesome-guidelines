@@ -3,6 +3,6 @@
     "test": "awesome-lint"
   },
   "devDependencies": {
-    "awesome-lint": "v1.0.1"
+    "awesome-lint": "v1.1.0"
   }
 }
