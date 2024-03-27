@@ -30,8 +30,8 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### C#
 
-- [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
-- [C# Style Guide](https://github.com/raywenderlich/c-sharp-style-guide)
+- [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+- [C# Style Guide](https://github.com/kodecocodes/c-sharp-style-guide)
 - [C# Coding Standards and Naming Conventions](http://www.dofactory.com/reference/csharp-coding-standards)
 
 ### C++
@@ -42,7 +42,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Mozilla C++ Coding style](https://firefox-source-docs.mozilla.org/code-quality/coding-style/coding_style_cpp.html)
 - [Chromium C++ style guide](https://chromium.googlesource.com/chromium/src/+/HEAD/styleguide/c++/c++.md)
 - [Webkit C++ Code Style Guidelines](https://webkit.org/code-style-guidelines/)
-- [NASA C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080039927.pdf)
+- [NASA C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/api/citations/20080039927/downloads/20080039927.pdf)
 
 ### Clojure
 
@@ -60,7 +60,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Dart
 
-- [Effective Dart](https://www.dartlang.org/guides/language/effective-dart)
+- [Effective Dart](https://dart.dev/effective-dart)
 
 ### Delphi
 
@@ -86,7 +86,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### F#
 
-- [The F# Component Design Guidelines](https://docs.microsoft.com/en-us/dotnet/fsharp/style-guide/component-design-guidelines)
+- [The F# Component Design Guidelines](https://learn.microsoft.com/en-us/dotnet/fsharp/style-guide/component-design-guidelines)
 
 ### Fortran
 
@@ -95,7 +95,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Go
 
-- [Effective Go](https://golang.org/doc/effective_go.html)
+- [Effective Go](https://go.dev/doc/effective_go)
 - [Go Standard Project Layout](https://github.com/golang-standards/project-layout) - Basic layout for Go applications.
 - [Google Go Style Guide](https://google.github.io/styleguide/go) - Google's coding standards for source code in Go.
 - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) - Patterns and conventions used in Go code at Uber.
@@ -134,11 +134,11 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Julia
 
-- [Blue Style](https://github.com/invenia/BlueStyle)
+- [Blue Style](https://github.com/JuliaDiff/BlueStyle)
 
 ### Kotlin
 
-- [Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)
+- [Coding Conventions](https://kotlinlang.org/docs/coding-conventions.html)
 
 ### Lua
 
@@ -153,8 +153,8 @@ A set of guidelines for a specific programming language that recommend programmi
 ### .NET
 
 - [.NET Standard](https://github.com/dotnet/standard)
-- [.NET Secure Coding Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/security/secure-coding-guidelines)
-- [.NET Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
+- [.NET Secure Coding Guidelines](https://learn.microsoft.com/en-us/dotnet/standard/security/secure-coding-guidelines)
+- [.NET Naming Guidelines](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
 
 ### Nim
 
@@ -175,23 +175,23 @@ A set of guidelines for a specific programming language that recommend programmi
 
 - [Perl best practices v4](https://www.slideshare.net/RandalSchwartz/perl-best-practices-v4) - Slides by Randal Schwartz, based on the book by Damian Conway.
 - [Perl Elements to Avoid](http://perl-begin.org/tutorials/bad-elements/) - A list of unrecommended practices, and what to do instead.
-- [perlstyle](https://perldoc.perl.org/perlstyle.html)
+- [perlstyle](https://perldoc.perl.org/perlstyle)
 
 ### PHP
 
 - [PHP FIG](http://www.php-fig.org/psr/) - PHP Standards Recommendations.
 - [PHP The Right Way](http://www.phptherightway.com) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web.
-- [Clean Code PHP](https://github.com/jupeter/clean-code-php) - Clean Code concepts adapted for PHP.
+- [Clean Code PHP](https://github.com/piotrplenik/clean-code-php) - Clean Code concepts adapted for PHP.
 
 ### Python
 
-- [Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+- [Style Guide for Python Code](https://peps.python.org/pep-0008/)
 - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - Highly regarded Python best practices guide.
 
 ### R
 
-- [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+- [Google's R Style Guide](https://google.github.io/styleguide/Rguide.html)
 - [The tidyverse style guide](http://style.tidyverse.org)
 
 ### Racket
@@ -202,13 +202,13 @@ A set of guidelines for a specific programming language that recommend programmi
 
 - [The Ruby Style Guide](https://rubystyle.guide) - A community-driven Ruby coding style guide.
 - [Ruby Style Guide](https://github.com/airbnb/ruby) - Airbnb's Ruby Style Guide.
-- [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide.
+- [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide) - A community-driven Ruby coding style guide.
 
 ### Rust
 
 - [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src)
 - [Rust Guidelines](http://aturon.github.io)
-- [Rust API Guidelines](https://rust-lang-nursery.github.io/api-guidelines/)
+- [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 
 ### Scala
 
@@ -224,9 +224,9 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Swift
 
-- [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
+- [API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/)
 - [Swift](https://github.com/github/swift-style-guide) - GitHub Official Swift style and conventions.
-- [Swift style guide](https://github.com/raywenderlich/swift-style-guide)
+- [Swift style guide](https://github.com/kodecocodes/swift-style-guide)
 - [Swift Style Guide](https://github.com/linkedin/swift-style-guide) - LinkedIn Official Swift Style Guide.
 - [Metova's Swift style guide](https://github.com/metova/swift-style-guide)
 - [Xmartlabs Swift Style Guide](https://github.com/xmartlabs/Swift-Style-Guide) - Swift language style guide & coding conventions followed by Xmartlabs.
@@ -239,7 +239,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Visual Basic
 
-- [Visual Basic Concepts](https://msdn.microsoft.com/en-us/library/aa240822(v=vs.60).aspx)
+- [Visual Basic Concepts](<https://msdn.microsoft.com/en-us/library/aa240822(v=vs.60).aspx>)
 - [Visual Basic/Coding Standards](https://en.wikibooks.org/wiki/Visual_Basic/Coding_Standards)
 
 ### XML
@@ -250,7 +250,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Shell
 
-- [Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+- [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
 
 ### Git
 
@@ -282,8 +282,8 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ### Arduino
 
-- [Arduino style guide](https://www.arduino.cc/en/Reference/StyleGuide)
-- [API Style Guide for Arduino](https://www.arduino.cc/en/Reference/APIStyleGuide)
+- [Arduino style guide](https://www.arduino.cc/)
+- [API Style Guide for Arduino](https://docs.arduino.cc/learn/contributions/arduino-library-style-guide/)
 
 ### Frontend Development
 
@@ -293,7 +293,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
 - [HTML Style Guide](https://github.com/marcobiedermann/html-style-guide) - A style guide which helps you write better, performant, structured, scalable and maintainable HTML.
 - [HTML + CSS Code Guide](http://codeguide.co) - Standards for flexible, durable, and sustainable HTML and CSS.
-- [U.S. Web Design Standards](https://standards.usa.gov) - Open source UI components and visual style guide for U.S. government websites.
+- [U.S. Web Design Standards](https://designsystem.digital.gov/) - Open source UI components and visual style guide for U.S. government websites.
 - [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide) - A collection of best-practices and coding conventions for the CoffeeScript programming language.
 - [LESS Coding Guidelines](https://gist.github.com/fat/a47b882eb5f84293c4ed)
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
@@ -342,9 +342,9 @@ A set of guidelines for a specific programming language that recommend programmi
 ### Other
 
 - [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) - Don't let your friends dump git logs into CHANGELOGs™.
-- [Project Guidelines](https://github.com/wearehive/project-guidelines) - A set of best practices for JavaScript projects.
+- [Project Guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects.
 - [Semantic Versioning](http://semver.org)
-- [Indent style](https://en.wikipedia.org/wiki/Indent_style)
+- [Indent style](https://en.wikipedia.org/wiki/Indentation_style)
 - [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
 - [Robot Framework User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
 - [CodeQL Coding Standards](https://github.com/github/codeql-coding-standards)
@@ -358,7 +358,7 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ## Content Management System
 
-- [WordPress Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/)
+- [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/)
 - [Drupal Coding Standards](https://www.drupal.org/docs/develop/standards)
 - [Magento Coding Standards](https://developer.adobe.com/commerce/php/coding-standards/)
 - [Octobercms Developer Guide](https://octobercms.com/help/guidelines/developer)
@@ -367,10 +367,10 @@ A set of guidelines for a specific programming language that recommend programmi
 
 - [Checkstyle](https://github.com/checkstyle/checkstyle) - Tool for checking Java source code for adherence to a Code Standard or set of validation rules.
 - [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
-- [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - The Easiest Way to Use Any Coding Standard.
+- [EasyCodingStandard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest Way to Use Any Coding Standard.
 - [ESLint](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX.
 - [JavaScript Standard Style](https://standardjs.com) - One JavaScript Style to Rule Them All.
-- [Laravel Pint](https://laravel.com/docs/pint) - An opinionated PHP code style fixer for minimalists.
+- [Laravel Pint](https://laravel.com/docs/11.x/pint) - An opinionated PHP code style fixer for minimalists.
 - [North](http://pointnorth.io) - Design and development standards to align and guide your project.
 - [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - The tool for detecting and fixing the violations of the specified standards in PHP code.
 - [PHP Coding Standards Fixer](https://cs.symfony.com) - The PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
