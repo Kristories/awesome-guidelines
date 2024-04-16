@@ -43,6 +43,7 @@ A set of guidelines for a specific programming language that recommend programmi
 - [Chromium C++ style guide](https://chromium.googlesource.com/chromium/src/+/HEAD/styleguide/c++/c++.md)
 - [Webkit C++ Code Style Guidelines](https://webkit.org/code-style-guidelines/)
 - [NASA C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/api/citations/20080039927/downloads/20080039927.pdf)
+- [OceanBase C++ Coding Standards](https://oceanbase.github.io/oceanbase/coding_standard.html)
 
 ### Clojure
 
