@@ -1,21 +1,20 @@
 # Contributing to Awesome Guidelines
 
-Thanks for taking the time to contribute :+1:
+Thank you for taking the time to contribute! :+1:
 
 ## How Can I Contribute?
 
 ### Creating Issues
 
-Do you know any cool guideline that isn't listed here? It isn't also on the [open issues](https://github.com/Kristories/awesome-guidelines/issues) or [pull requests](https://github.com/Kristories/awesome-guidelines/pulls)?
-Please create a new issue or submit a pull request, we will be happy to receive it!
+Know of an awesome guideline that’s missing from the list? If it’s not already mentioned in the [open issues](https://github.com/Kristories/awesome-guidelines/issues) or [pull requests](https://github.com/Kristories/awesome-guidelines/pulls), please feel free to create a new issue or submit a pull request. We’d love to hear from you!
 
 ### Submitting Pull Requests
 
-Feel free to take any open issue, just make sure that you follow the contribution guidelines.
+You’re welcome to work on any open issue. Just ensure you follow the contribution guidelines while submitting your PR.
 
-### Voting and commenting
+### Voting and Commenting
 
-Just use GitHub Discussions ([Resource suggestions](https://github.com/Kristories/awesome-guidelines/discussions/categories/resource-suggestions)).
+Join the conversation on GitHub Discussions ([Resource suggestions](https://github.com/Kristories/awesome-guidelines/discussions/categories/resource-suggestions)) to vote and provide feedback.
 
 ## Contribution Guidelines
 
@@ -29,10 +28,10 @@ Just use GitHub Discussions ([Resource suggestions](https://github.com/Kristorie
 * New categories, or improvements to the existing ones are also welcome.
 * Make sure your text editor is set to remove trailing whitespace.
 
-## Quality standard
+## Quality Standards
 
-To stay on the list, projects should follow these quality standards:
+Projects listed should meet these criteria to maintain quality:
 
-* Generally used and useful to the community.
+* Widely used and beneficial to the community.
 
-Thanks to all [contributors](https://github.com/Kristories/awesome-guidelines/graphs/contributors), you're awesome and wouldn't be possible without you!
+Thank you to all our [contributors](https://github.com/Kristories/awesome-guidelines/graphs/contributors)! This project wouldn’t be possible without your support.
