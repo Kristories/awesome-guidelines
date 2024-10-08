@@ -4,7 +4,7 @@
 
 # Awesome Guidelines [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A set of guidelines for a specific programming language that recommend programming style, practices, and methods for each aspect of a program written in that language.
+A set of guidelines for a specific programming language that provides recommendations on programming style, best practices, and methods for various aspects of writing programs in that language.
 
 ## Contents
 
@@ -380,11 +380,11 @@ A set of guidelines for a specific programming language that recommend programmi
 
 ## Contributors
 
-Contributions welcome. Please read the [contribution guidelines](contributing.md) before contributing.
+We welcome contributions! Please take a moment to review our [contribution guidelines](contributing.md) before getting started.
 
 ### Code Contributors
 
-This project exists thanks to all the people who contribute.
+This project thrives thanks to the efforts of all contributors.
 <a href="https://github.com/Kristories/awesome-guidelines/graphs/contributors"><img src="https://opencollective.com/awesome-guidelines/contributors.svg?width=890&button=false" /></a>
 
 [Contribute on opencollective.com](https://opencollective.com/awesome-guidelines/contribute).
