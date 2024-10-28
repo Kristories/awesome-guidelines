@@ -377,6 +377,7 @@ A set of guidelines for a specific programming language that provides recommenda
 - [PHP Coding Standards Fixer](https://cs.symfony.com) - The PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
 - [RuboCop](https://rubocop.org) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [semantic-release](https://github.com/semantic-release/semantic-release)
+- [ShellCheck](https://github.com/koalaman/shellcheck) - A shell script static analysis tool
 
 ## Contributors
 
