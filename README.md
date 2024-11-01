@@ -383,6 +383,8 @@ A set of guidelines for a specific programming language that provides recommenda
 
 We welcome contributions! Please take a moment to review our [contribution guidelines](contributing.md) before getting started.
 
+![Alt](https://repobeats.axiom.co/api/embed/57c7dc64df55706884092f3dc88a198c7daeae04.svg "Repobeats analytics image")
+
 ### Code Contributors
 
 This project thrives thanks to the efforts of all contributors.
