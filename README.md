@@ -6,6 +6,8 @@
 
 A set of guidelines for a specific programming language that provides recommendations on programming style, best practices, and methods for various aspects of writing programs in that language.
 
+Please see [CONTRIBUTING](contributing.md) and [CODE-OF-CONDUCT](code-of-conduct.md) for details.
+
 ## Contents
 
 - [Programming Languages](#programming-languages)
