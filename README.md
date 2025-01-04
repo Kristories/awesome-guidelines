@@ -16,7 +16,6 @@ Please see [CONTRIBUTING](contributing.md) and [CODE-OF-CONDUCT](code-of-conduct
 - [Frameworks](#frameworks)
 - [Content Management System](#content-management-system)
 - [Tools](#tools)
-- [Contributors](#contributors)
 
 ## Programming Languages
 
