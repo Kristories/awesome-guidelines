@@ -305,7 +305,7 @@ Please see [CONTRIBUTING](contributing.md) and [CODE-OF-CONDUCT](code-of-conduct
 - [Yelp Styleguide](https://www.yelp.com/styleguide)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [BEM - Block Element Modifier](https://getbem.com/) - A methodology that helps you to create reusable components and code sharing in front‑end development.
-
+- [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) - Recommendations for making web content more accessible.  
 ### GNU
 
 - [GNU coding standards](https://www.gnu.org/prep/standards/)
