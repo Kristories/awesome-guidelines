@@ -20,6 +20,8 @@ Join the conversation on GitHub Discussions ([Resource suggestions](https://gith
 
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Use the following format: `[Title](url) - Description.`
+* Include a short description for each entry unless the title is already sufficiently descriptive (this is rare).
+* Write descriptions in sentence case (not Title Case).
 * The link should be the name of the package or project.
 * Links and categories should be sorted alphabetically.
 * Add one link per pull-request.
