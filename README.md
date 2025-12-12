@@ -380,3 +380,4 @@ A set of guidelines for a specific programming language that provides recommenda
 - [RuboCop](https://rubocop.org) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [semantic-release](https://github.com/semantic-release/semantic-release)
 - [ShellCheck](https://github.com/koalaman/shellcheck) - A shell script static analysis tool.
+- [Agents.md](https://agents.md) - A simple, open format for guiding coding agents
