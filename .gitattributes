@@ -1,2 +1,17 @@
-* text=auto
-readme.md merge=union
+# Normalize line endings
+* text=auto eol=lf
+
+# Markdown files (auto-merge friendly)
+*.md merge=union
+
+# Config / structured text
+*.yml text
+*.yaml text
+*.json text
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
