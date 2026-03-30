@@ -375,7 +375,7 @@ A set of guidelines for a specific programming language that provides recommenda
 - [JavaScript Standard Style](https://standardjs.com) - One JavaScript Style to Rule Them All.
 - [Laravel Pint](https://laravel.com/docs/11.x/pint) - An opinionated PHP code style fixer for minimalists.
 - [North](http://pointnorth.io) - Design and development standards to align and guide your project.
-- [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - The tool for detecting and fixing the violations of the specified standards in PHP code.
+- [PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - The tool for detecting and fixing the violations of the specified standards in PHP code.
 - [PHP Coding Standards Fixer](https://cs.symfony.com) - The PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
 - [RuboCop](https://rubocop.org) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [semantic-release](https://github.com/semantic-release/semantic-release)
