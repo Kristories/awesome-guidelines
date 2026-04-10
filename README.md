@@ -381,3 +381,4 @@ A set of guidelines for a specific programming language that provides recommenda
 - [semantic-release](https://github.com/semantic-release/semantic-release)
 - [ShellCheck](https://github.com/koalaman/shellcheck) - A shell script static analysis tool.
 - [Agents.md](https://agents.md) - A simple, open format for guiding coding agents
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=Kristories_awesome-guidelines) - Follow designers and frontend devs on GitHub, see what UI repos and tools they are into.
