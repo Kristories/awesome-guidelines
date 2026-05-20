@@ -368,6 +368,7 @@ A set of guidelines for a specific programming language that provides recommenda
 
 ## Tools
 
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
 - [Checkstyle](https://github.com/checkstyle/checkstyle) - Tool for checking Java source code for adherence to a Code Standard or set of validation rules.
 - [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
 - [EasyCodingStandard](https://github.com/easy-coding-standard/easy-coding-standard) - The Easiest Way to Use Any Coding Standard.
