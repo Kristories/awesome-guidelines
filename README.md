@@ -13,6 +13,10 @@ Programming style, best practices, and coding conventions.
 
 ## Programming Languages
 
+### Ada
+
+- [Ada Programming/Coding standards](https://en.wikibooks.org/wiki/Ada_Programming/Coding_standards) - Suggestions of Ada programming guidelines
+
 ### Brainfuck
 
 - [BF Style Guide](https://codepen.io/renmans/full/JjdJPpW) - Guidelines for writing and formatting Brainfuck code.
