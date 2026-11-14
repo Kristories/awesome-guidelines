@@ -225,7 +225,6 @@ Programming style, best practices, and coding conventions.
 - [Swift](https://github.com/github/swift-style-guide) - GitHub Official Swift style and conventions.
 - [Swift style guide](https://github.com/kodecocodes/swift-style-guide) - Community Swift style guide.
 - [Swift Style Guide](https://github.com/linkedin/swift-style-guide) - LinkedIn Official Swift Style Guide.
-- [Metova's Swift style guide](https://github.com/metova/swift-style-guide) - Swift style guide for Xcode (archived, deprecated 2022).
 - [Xmartlabs Swift Style Guide](https://github.com/xmartlabs/Swift-Style-Guide) - Swift language style guide & coding conventions followed by Xmartlabs.
 
 ### TypeScript
