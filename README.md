@@ -15,7 +15,7 @@ Programming style, best practices, and coding conventions.
 
 ### Ada
 
-- [Ada Programming/Coding standards](https://en.wikibooks.org/wiki/Ada_Programming/Coding_standards) - Suggestions of Ada programming guidelines
+- [Ada Programming/Coding standards](https://en.wikibooks.org/wiki/Ada_Programming/Coding_standards) - Suggestions of Ada programming guidelines.
 
 ### Brainfuck
 
@@ -297,7 +297,8 @@ Programming style, best practices, and coding conventions.
 - [Yelp Styleguide](https://www.yelp.com/styleguide) - Design system for consistent product UI.
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - Pre-launch checklist for front-end projects.
 - [BEM - Block Element Modifier](https://getbem.com/) - A methodology that helps you to create reusable components and code sharing in front‑end development.
-- [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) - Recommendations for making web content more accessible.  
+- [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) - Recommendations for making web content more accessible.
+
 ### GNU
 
 - [GNU coding standards](https://www.gnu.org/prep/standards/) - Coding and documentation standards for GNU software.
