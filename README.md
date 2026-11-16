@@ -50,8 +50,8 @@ Programming style, best practices, and coding conventions.
 
 ### Common Lisp
 
-- [Style Guide](http://lisp-lang.org/style-guide/)
-- [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
+- [Style Guide](http://lisp-lang.org/style-guide/) - Community conventions for writing idiomatic Common Lisp.
+- [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml) - Google's formatting and design rules for Common Lisp code.
 
 ### D
 
@@ -81,7 +81,7 @@ Programming style, best practices, and coding conventions.
 ### Erlang
 
 - [Secure Coding Guidelines](https://www.erlang.org/doc/system/secure_coding.html) - Writing secure Erlang code, describing common pitfalls and weaknesses best avoided.
-- [Erlang Coding Guidelines](https://github.com/inaka/erlang_guidelines)
+- [Erlang Coding Guidelines](https://github.com/inaka/erlang_guidelines) - Inaka's conventions for writing readable Erlang code.
 
 ### F#
 
@@ -110,7 +110,7 @@ Programming style, best practices, and coding conventions.
 
 - [Code Conventions for the Java™ Programming Language](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html) - Historical Java coding conventions.
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) - Google's coding standards for source code in the Java™ Programming Language.
-- [Java Programming Style Guide](https://coderanch.com/wiki/718799/Style)
+- [Java Programming Style Guide](https://coderanch.com/wiki/718799/Style) - Naming, formatting, and documentation conventions for Java.
 - [Alibaba-Java-Coding-Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/) - A guide for Java developers.
 
 ### JavaScript
@@ -124,7 +124,7 @@ Programming style, best practices, and coding conventions.
 - [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp) - General JavaScript coding conventions and best practices.
 - [Code Conventions for the JavaScript](https://www.crockford.com/code.html) - A set of coding conventions and rules for use in JavaScript programming.
 - [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for JavaScript.
-- [Mozilla Coding Style Guide for JavaScript](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript)
+- [Mozilla Coding Style Guide for JavaScript](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript) - Conventions for JavaScript code examples on MDN.
 
 ### JSON
 
@@ -204,7 +204,7 @@ Programming style, best practices, and coding conventions.
 
 ### Rust
 
-- [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src)
+- [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src) - Official formatting conventions for Rust code used by rustfmt.
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - Guidelines for designing public Rust APIs.
 
 ### Scala
@@ -279,7 +279,7 @@ Programming style, best practices, and coding conventions.
 ### Arduino
 
 - [Arduino style guide](https://www.arduino.cc/) - General coding style guidance for Arduino.
-- [API Style Guide for Arduino](https://docs.arduino.cc/learn/contributions/arduino-library-style-guide/)
+- [API Style Guide for Arduino](https://docs.arduino.cc/learn/contributions/arduino-library-style-guide/) - Conventions for designing Arduino library APIs.
 
 ### Frontend Development
 
@@ -291,8 +291,8 @@ Programming style, best practices, and coding conventions.
 - [HTML + CSS Code Guide](http://codeguide.co) - Standards for flexible, durable, and sustainable HTML and CSS.
 - [U.S. Web Design Standards](https://designsystem.digital.gov/) - Open source UI components and visual style guide for U.S. government websites.
 - [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide) - A collection of best-practices and coding conventions for the CoffeeScript programming language.
-- [LESS Coding Guidelines](https://gist.github.com/fat/a47b882eb5f84293c4ed)
-- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [LESS Coding Guidelines](https://gist.github.com/fat/a47b882eb5f84293c4ed) - Conventions for writing maintainable LESS stylesheets.
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) - Google's formatting and style rules for HTML and CSS.
 - [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - Guide to designing for screen size, platform, and orientation.
 - [Yelp Styleguide](https://www.yelp.com/styleguide) - Design system for consistent product UI.
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - Pre-launch checklist for front-end projects.
@@ -340,25 +340,25 @@ Programming style, best practices, and coding conventions.
 
 - [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/) - Guidelines for writing human-readable project changelogs.
 - [Project Guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects.
-- [Semantic Versioning](http://semver.org)
-- [Indent style](https://en.wikipedia.org/wiki/Indentation_style)
+- [Semantic Versioning](https://semver.org) - Versioning scheme that conveys the meaning of changes through version numbers.
+- [Indent style](https://en.wikipedia.org/wiki/Indentation_style) - Overview of conventions for indenting blocks of code.
 - [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines) - Secure coding guidelines for web applications.
 - [Robot Framework User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html) - Official Robot Framework user guide.
-- [CodeQL Coding Standards](https://github.com/github/codeql-coding-standards)
+- [CodeQL Coding Standards](https://github.com/github/codeql-coding-standards) - CodeQL queries for checking C and C++ against AUTOSAR and MISRA standards.
 
 ## Frameworks
 
-- [Symfony Coding Standards](https://symfony.com/doc/current/contributing/code/standards.html)
-- [Django Coding Style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
-- [Vue Style Guide](https://vuejs.org/style-guide)
-- [Angular Style Guide](https://angular.dev/style-guide)
+- [Symfony Coding Standards](https://symfony.com/doc/current/contributing/code/standards.html) - Coding conventions for PHP code in Symfony projects.
+- [Django Coding Style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style) - Python, template, and model conventions for Django code.
+- [Vue Style Guide](https://vuejs.org/style-guide) - Official conventions for writing Vue components.
+- [Angular Style Guide](https://angular.dev/style-guide) - Official conventions for structuring Angular applications.
 
 ## Content Management System
 
-- [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/)
-- [Drupal Coding Standards](https://www.drupal.org/docs/develop/standards)
-- [Magento Coding Standards](https://developer.adobe.com/commerce/php/coding-standards/)
-- [Octobercms Developer Guide](https://octobercms.com/help/guidelines/developer)
+- [WordPress Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/) - PHP, JavaScript, CSS, and HTML conventions for WordPress.
+- [Drupal Coding Standards](https://www.drupal.org/docs/develop/standards) - Coding conventions for Drupal core and contributed modules.
+- [Magento Coding Standards](https://developer.adobe.com/commerce/php/coding-standards/) - Coding conventions for Magento and Adobe Commerce extensions.
+- [Octobercms Developer Guide](https://octobercms.com/help/guidelines/developer) - Conventions for building October CMS plugins and themes.
 
 ## Tools
 
