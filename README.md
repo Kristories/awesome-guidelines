@@ -75,7 +75,6 @@ Programming style, best practices, and coding conventions.
 
 ### Emacs Lisp
 
-- [Elisp Guide](https://github.com/chrisdone/elisp-guide) - Guide to writing Emacs Lisp.
 - [Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide) - Community style guide for Emacs Lisp.
 
 ### Erlang
@@ -149,7 +148,6 @@ Programming style, best practices, and coding conventions.
 
 ### .NET
 
-- [.NET Standard](https://github.com/dotnet/standard) - Formal specification of .NET APIs that are available across .NET implementations.
 - [.NET Secure Coding Guidelines](https://learn.microsoft.com/en-us/dotnet/standard/security/secure-coding-guidelines) - Guidance for writing secure .NET code.
 - [.NET Naming Guidelines](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines) - Naming conventions for .NET libraries.
 
@@ -159,9 +157,7 @@ Programming style, best practices, and coding conventions.
 
 ### Objective-C
 
-- [Objective-C Style guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
 - [Google Objective-C Style Guide](https://github.com/google/styleguide/blob/gh-pages/objcguide.md) - Objective-C coding standards and conventions.
-- [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
 
 ### Pascal
 
@@ -221,10 +217,8 @@ Programming style, best practices, and coding conventions.
 ### Swift
 
 - [API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/) - API design principles for Swift.
-- [Swift](https://github.com/github/swift-style-guide) - GitHub Official Swift style and conventions.
 - [Swift style guide](https://github.com/kodecocodes/swift-style-guide) - Community Swift style guide.
 - [Swift Style Guide](https://github.com/linkedin/swift-style-guide) - LinkedIn Official Swift Style Guide.
-- [Xmartlabs Swift Style Guide](https://github.com/xmartlabs/Swift-Style-Guide) - Swift language style guide & coding conventions followed by Xmartlabs.
 
 ### TypeScript
 
@@ -261,7 +255,6 @@ Programming style, best practices, and coding conventions.
 ### Android
 
 - [Android Guidelines](https://github.com/ribot/android-guidelines) - Architecture and code guidelines we use at ribot when developing for Android.
-- [Xmartlabs Android Style Guide](https://github.com/xmartlabs/Android-Style-Guide) - Style guide for Android by Xmartlabs.
 
 ### Apache
 
@@ -302,10 +295,6 @@ Programming style, best practices, and coding conventions.
 
 - [GNU coding standards](https://www.gnu.org/prep/standards/) - Coding and documentation standards for GNU software.
 
-### Java
-
-- [JavaEE Specification](https://github.com/javaee/javaee-spec) - Official specification for Java EE.
-
 ### Linux
 
 - [Linux kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html) - Coding style for the Linux kernel.
@@ -324,7 +313,6 @@ Programming style, best practices, and coding conventions.
 
 ### Node.js
 
-- [Microsoft + Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Engineering guidelines for building Node.js apps.
 - [Node.js Style Guide](https://github.com/felixge/node-style-guide) - A guide for styling your Node.js / JavaScript code.
 
 ### MongoDB
