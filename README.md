@@ -42,7 +42,7 @@ Programming style, best practices, and coding conventions.
 - [Chromium C++ style guide](https://chromium.googlesource.com/chromium/src/+/HEAD/styleguide/c++/c++.md) - C++ style guide for the Chromium project.
 - [Webkit C++ Code Style Guidelines](https://webkit.org/code-style-guidelines/) - C++ code style guidelines for WebKit.
 - [NASA C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/api/citations/20080039927/downloads/20080039927.pdf) - C++ coding standards for safety-critical systems.
-- [OceanBase C++ Coding Standards](https://oceanbase.github.io/oceanbase/coding_standard.html) - C++ coding standards for OceanBase.
+- [OceanBase C++ Coding Standards](https://oceanbase.github.io/oceanbase/coding_standard/) - C++ coding standards for OceanBase.
 
 ### Clojure
 
@@ -51,7 +51,7 @@ Programming style, best practices, and coding conventions.
 ### Common Lisp
 
 - [Style Guide](http://lisp-lang.org/style-guide/) - Community conventions for writing idiomatic Common Lisp.
-- [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml) - Google's formatting and design rules for Common Lisp code.
+- [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.html) - Google's formatting and design rules for Common Lisp code.
 
 ### D
 
@@ -89,7 +89,7 @@ Programming style, best practices, and coding conventions.
 
 ### Fortran
 
-- [Fortran Best Practices](https://fortran-lang.org/en/learn/best_practices/) - Style guide and best practices for modern Fortran programs.
+- [Fortran Best Practices](https://fortran-lang.org/learn/best_practices/) - Style guide and best practices for modern Fortran programs.
 
 ### Go
 
@@ -116,7 +116,6 @@ Programming style, best practices, and coding conventions.
 ### JavaScript
 
 - [AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development.
-- [JavaScript The Right Way](http://jstherightway.org) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) - This document serves as the complete definition of Google's coding standards for source code in the JavaScript programming language.
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
 - [jQuery Core Style Guide](http://contribute.jquery.org/style-guide/js/) - JavaScript style rules for open-source contributors.
@@ -128,7 +127,7 @@ Programming style, best practices, and coding conventions.
 
 ### JSON
 
-- [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml) - Recommendations for JSON formatting and usage.
+- [Google JSON Style Guide](https://google.github.io/styleguide/jsoncguide.html) - Recommendations for JSON formatting and usage.
 
 ### Julia
 
@@ -146,7 +145,7 @@ Programming style, best practices, and coding conventions.
 
 - [Google Markdown Style Guide](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md) - Style guide for Google-originated projects using Markdown.
 - [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/) - Practical guidelines for writing readable Markdown.
-- [GitLab Markdown Style Guide](https://about.gitlab.com/handbook/markdown-guide/) - Markdown Style Guide for about.GitLab.com.
+- [GitLab Markdown Style Guide](https://handbook.gitlab.com/docs/markdown-guide/) - Markdown conventions used in the GitLab handbook.
 
 ### .NET
 
@@ -240,7 +239,7 @@ Programming style, best practices, and coding conventions.
 
 ### XML
 
-- [Google XML Document Format Style Guide](https://google.github.io/styleguide/xmlstyle.html) - XML formatting and style guidance.
+- [Google XML Document Format Style Guide](https://google.github.io/styleguide/xmlguide.html) - XML formatting and style guidance.
 
 ## Development Environment
 
@@ -296,7 +295,7 @@ Programming style, best practices, and coding conventions.
 - [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - Guide to designing for screen size, platform, and orientation.
 - [Yelp Styleguide](https://www.yelp.com/styleguide) - Design system for consistent product UI.
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - Pre-launch checklist for front-end projects.
-- [BEM - Block Element Modifier](https://getbem.com/) - A methodology that helps you to create reusable components and code sharing in front‑end development.
+- [BEM - Block Element Modifier](https://en.bem.info/methodology/) - A methodology that helps you to create reusable components and code sharing in front‑end development.
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) - Recommendations for making web content more accessible.
 
 ### GNU
