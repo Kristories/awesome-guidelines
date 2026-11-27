@@ -243,6 +243,7 @@ Programming style, best practices, and coding conventions.
 
 ### Git
 
+- [Conventional Branch](https://conventionalbranch.org) - Naming convention for Git branches, with type prefixes such as `feature/` and `bugfix/`.
 - [Git Style Guide](https://github.com/agis/git-style-guide) - Git usage and style recommendations.
 - [Few Rules from Git Documentation](https://github.com/git/git/blob/master/Documentation/CodingGuidelines) - Coding guidelines used in the Git project.
 
